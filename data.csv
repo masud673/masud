@@ -1,34 +1,32 @@
-NAME,PHONE NUMBER,ID,ADDRESS,USERNAME,PON,MAC,STATUS
-MST. NEELA	,	8801861774590	,		,	Satbaria	,	neela90@bp	,	1	,		,	Active
-MD. AZAHARUL ISLAM	,	8801718703796	,		,	Satbaria	,	azaharul96@bp	,	1	,		,	Active
-MD.ABDUL QUDDUS	,	8801725436103	,		,	Satbaria	,	quddus03@bp	,	1	,		,	Active
-ROSHIDUL RAHMAN (MAMA)	,	8801722574714	,		,	Satbaria	,	roshidul14@bp	,	1	,		,	Active
-MD ASIKUR RAHMAN ASIK	,	8801817866711	,		,	Satbaria	,	asikur11@bp	,	1	,		,	Active
-MD. SAYADULLAH MUZAHID	,	8801911832777	,		,	Satbaria	,	muzahid77@bp	,	1	,		,	Active
-MD. SOHIDUL ISLAM	,	8801859079551	,		,	Satbaria	,	sohid51@bp	,	1	,		,	Active
-MD. AKTARUL MOROL	,	8801903767029	,		,	Satbaria	,	babu29@bp	,	1	,		,	Active
-Md. Mujahid Hossain	,	8801992832128	,		,	Satbaria	,	mujahid28@bp	,	1	,		,	Active
-MD MOYNUL ISLAM	,	8801785232149	,		,	Satbaria	,	moynul49@bp	,	1	,		,	Active
+NAME	,	PHONE NUMBER		ID		ADDRESS		Username		PON		MAC		STATUS
+MD. TOHIDUR RAHMAN	,	8801310944202	,		,	Chadra	,	tohidur02@bp	,	1	,		,	Active
+MST. NEELA	,	8801861774590	,		,	Satbaria	,	neela90@bp	,	1	,	A0:7E:02:20:0E:D0	,	Active
+MD. AZAHARUL ISLAM	,	8801718703796	,		,	Satbaria	,	azaharul96@bp	,	1	,	E4:2D:7B:5E:45:2F	,	Active
+MD.ABDUL QUDDUS	,	8801725436103	,		,	Satbaria	,	quddus03@bp	,	1	,	80:F7:A6:C2:D7:90	,	Active
+ROSHIDUL RAHMAN (MAMA)	,	8801722574714	,		,	Satbaria	,	roshidul14@bp	,	1	,	A0:7D:01:04:A5:22	,	Active
+MD ASIKUR RAHMAN ASIK	,	8801817866711	,		,	Satbaria	,	asikur11@bp	,	1	,	A2:3D:08:19:2E:20	,	Active
+MD. SAYADULLAH MUZAHID	,	8801911832777	,		,	Satbaria	,	muzahid77@bp	,	1	,	6C:68:A4:D6:1A:A7	,	Active
+MD. SOHIDUL ISLAM	,	8801859079551	,		,	Satbaria	,	sohid51@bp	,	1	,	AC-4E-91-A2-81-AD	,	Active
+MD. AKTARUL MOROL	,	8801903767029	,		,	Satbaria	,	babu29@bp	,	1	,	CC:52:89:00:0C:9B	,	Active
+Md. Mujahid Hossain	,	8801992832128	,		,	Satbaria	,	mujahid28@bp	,	1	,	E0:E8:E6:2F:50:FF	,	Active
+MD MOYNUL ISLAM	,	8801785232149	,		,	Satbaria	,	moynul49@bp	,	1	,	C8:3A:35:1D:B4:88	,	Active
 MD. ABDUL JABBAR	,	8801836137797	,		,	Satbaria	,	jabbar97@bp	,	1	,	A2:3D:12:29:8E:40	,	Active
-MD. AZAHARUL KABIR	,	8801856672000	,		,	Satbaria	,	azaharul00@bp	,	1	,		,	Active
-NAZMUL HUDA	,	8801866871760	,		,	Satbaria	,	nazmul60@bp	,	1	,		,	Active
-MD. REYAZ UDDIN BISWAS	,	8801308030235	,		,	Satbaria	,	reyaz35@bp	,	1	,		,	Active
-ABDULLAH	,	8801980224324	,		,	Satbaria	,	abdullah24@bp	,	1	,		,	Active
+MD. AZAHARUL KABIR	,	8801856672000	,		,	Satbaria	,	azaharul00@bp	,	1	,	68:8F:84:0F:44:A1	,	Active
+NAZMUL HUDA	,	8801866871760	,		,	Satbaria	,	nazmul60@bp	,	1	,	4C-AE-1C-19-05-C7	,	Active
+MD. REYAZ UDDIN BISWAS	,	8801308030235	,		,	Satbaria	,	reyaz35@bp	,	1	,	80:D4:A5:63:BF:1F	,	Active
+ABDULLAH	,	8801980224324	,		,	Satbaria	,	abdullah24@bp	,	1	,	00:D3:9E:F1:42:FE	,	Active
 MD MASUDUR RAHMAN	,	8801748308048	,		,	Satbaria	,	masudur48@bp	,	1	,	70:A5:6A:90:C7:3C	,	Active
-MD. MONIRUL ISLAM	,	8801725875325	,		,	Satbaria	,	monirul25@bp	,	1	,		,	Active
-ASHRAFUL ISLAM	,	8801760944475	,		,	Satbaria	,	ashraful75@bp	,	1	,		,	Active
-MD ABDUR RASHID	,	8801929012195	,		,	Satbaria	,	rashid95@bp	,	1	,		,	Active
-MD. MAHABUR RAHMAN	,	8801911900185	,		,	Satbaria	,	mahabur85@bp	,	1	,		,	Active
-OLIAR RAHMAN	,	8801880994701	,		,	Satbaria	,	oliar01@bp	,	1	,		,	Active
+MD. MONIRUL ISLAM	,	8801725875325	,		,	Satbaria	,	monirul25@bp	,	1	,	80:07:1B:9B:86:20	,	Active
+ASHRAFUL ISLAM	,	8801760944475	,		,	Satbaria	,	ashraful75@bp	,	1	,	70:A5:6A:0B:20:A8	,	Active
+MD ABDUR RASHID	,	8801929012195	,		,	Satbaria	,	rashid95@bp	,	1	,	A0:7D:01:04:A5:22	,	Active
+MD. MAHABUR RAHMAN	,	8801911900185	,		,	Satbaria	,	mahabur85@bp	,	1	,	30-3D-51-E2-52-A2	,	Active
+OLIAR RAHMAN	,	8801880994701	,		,	Satbaria	,	oliar01@bp	,	1	,	A2:3E:04:0A:06:F0	,	Active
 MD. ROFIQUL ISLAM	,	8801751381139	,		,	Satbaria	,	rofiqul39@bp	,	1	,	00:D5:9E:6D:7F:6E	,	Active
-MD. JALAL UDDIN	,	8801887140825	,		,	Satbaria	,	jalal25@bp	,	1	,		,	Active
-MD. NOZRUL ISLAM	,	8801786200147	,		,	Satbaria	,	landoffice@bp	,	1	,		,	Active
-BILLAL HOSSION	,	8801607835719	,		,	Satbaria	,	billal19@bp	,	1	,		,	Active
+MD. JALAL UDDIN	,	8801887140825	,		,	Satbaria	,	jalal25@bp	,	1	,	C8:3A:35:1D:B4:88	,	Active
+MD. NOZRUL ISLAM	,	8801786200147	,		,	Satbaria	,	landoffice@bp	,	1	,	A0:7D:01:04:A5:22	,	Active
+BILLAL HOSSION	,	8801607835719	,		,	Satbaria	,	billal19@bp	,	1	,	6C:68:A4:D6:18:CF	,	Active
 MD. ABDULLAH AL MAMUN	,	8801644037290	,		,	Satbaria	,	mamun90@bp	,	1	,		,	Active
 MD ABDUR SATTAR DOFADAR	,	8801707856097	,		,	Satbaria	,	sattar97@bp	,	1	,		,	Active
-MD. TOHIDUR RAHMAN	,	8801310944202	,		,	Chadra	,	tohidur02@bp	,	1	,		,	Active
-MD. RASEL HOSSEN	,	8801793345287	,		,	Satbaria	,	rasel87@bp	,	2	,		,	Active
-MD. SOBUJ HOSSAIN	,	8801788365590	,		,	Satbaria	,	sobuj90@bp	,	2	,		,	Active
 MD. HASAN ALI	,	8801757029156	,		,	Chadra	,	hasan56@bp	,	2	,	A2:3E:02:26:B6:40	,	Active
 AL AMIN	,	8801995563218	,		,	Chadra	,	amin18@bp	,	2	,		,	Active
 MD IMRAN HOSEN	,	8801919486060	,		,	Chadra	,	imran60@bp	,	2	,		,	Active
@@ -66,6 +64,8 @@ MD SAKIB MOROL	,	8801943950810	,		,	Chadra	,	sakib10@bp	,	2	,		,	Active
 MD SIFUR RAHMAN	,	8801746752200	,		,	Chadra	,	sifur@bp	,	2	,		,	Active
 Milon Chakrabarti	,	8801713918183	,		,	Chadra	,	milon83@bp	,	2	,	4C:D7:C8:A7:D8:CB	,	Active
 JUBAYER HOSSAIN	,	8801943760850	,		,	Chadra	,	jubayer50@bp	,	2	,	6C:68:A4:C6:8C:50	,	Active
+MD. RASEL HOSSEN	,	8801793345287	,		,	Satbaria	,	rasel87@bp	,	2	,		,	Active
+MD. SOBUJ HOSSAIN	,	8801788365590	,		,	Satbaria	,	sobuj90@bp	,	2	,		,	Active
 MD MAMUN RAHMAN	,	8801936893226	,		,	Satbaria	,	mamun70@bp	,	2	,		,	Active
 JAHID HASAN AKASH	,	8801792096972	,		,	Satbaria	,	akash72@bp	,	2	,		,	Active
 MD. MAHADI HASSAN	,	8801319590785	,		,	Satbaria	,	mahadi85@bp	,	2	,		,	Active
@@ -160,7 +160,7 @@ SOBAHAN GAZI	,	8801737789336	,		,	Begumpur	,	chanta36@bp	,	4	,		,	Active
 MD. SAHIN (AKTER)	,	8801785236412	,		,	Begumpur	,	sahin12@bp	,	4	,		,	Active
 Sulaiman Hossen	,	8801305025615	,		,	Begumpur	,	sulaiman15@bp	,	4	,	C4:70:0B:93:02:28	,	Active
 MD. SHOHEDUL ISLAM	,	8801992963090	,		,	hazrakathi	,	shohedul90@bp	,	4	,		,	Active
-MD. NOZRUL ISLAM	,	8801981262372	,		,	hazrakathi	,	nozrul72@bp	,	4	,A2:4E:07:15:45:30,	Active
+MD. NOZRUL ISLAM	,	8801981262372	,		,	hazrakathi	,	nozrul72@bp	,	4	,	A2:4E:07:15:45:30	,	Active
 ASADULLAH	,	8801911808187	,		,	hazrakathi	,	asadullah@bp	,	4	,		,	Active
 NAHID HASAN TUHIN	,	8801324828582	,		,	hazrakathi	,	nahid82@bp	,	4	,		,	Active
 MD SOHAG HOSSAIN	,	8801955497787	,		,	hazrakathi	,	sohag87@bp	,	4	,		,	Active

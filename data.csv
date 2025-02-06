@@ -1,8 +1,8 @@
 NAME	,	PHONE NUMBER	,	ID	,	ADDRESS	,	Username	,	PON	,	MAC	,	STATUS
-MD. TOHIDUR RAHMAN	,	8801310944202	,		,	Chadra	,	tohidur02@bp	,	1	,		,	Active
+MD. TOHIDUR RAHMAN	,	8801310944202	,		,	Chadra	,	tohidur02@bp	,	1	,	A2:4E:02:27:AD:70	,	Active
 MST. NEELA	,	8801861774590	,		,	Satbaria	,	neela90@bp	,	1	,	A0:7E:02:20:0E:D0	,	Active
-MD. AZAHARUL ISLAM	,	8801718703796	,		,	Satbaria	,	azaharul96@bp	,	1	,	E4:2D:7B:5E:45:2F	,	Active
-MD.ABDUL QUDDUS	,	8801725436103	,		,	Satbaria	,	quddus03@bp	,	1	,	80:F7:A6:C2:D7:90	,	Active
+MD. AZAHARUL ISLAM	,	8801718703796	,	38005	,	Satbaria	,	azaharul96@bp	,	1	,	E4:2D:7B:5E:45:2F	,	Active
+MD.ABDUL QUDDUS	,	8801725436103	,	38019	,	Satbaria	,	quddus03@bp	,	1	,	80:F7:A6:C2:D7:90	,	Active
 ROSHIDUL RAHMAN (MAMA)	,	8801722574714	,		,	Satbaria	,	roshidul14@bp	,	1	,	A0:7D:01:04:A5:22	,	Active
 MD ASIKUR RAHMAN ASIK	,	8801817866711	,		,	Satbaria	,	asikur11@bp	,	1	,	A2:3D:08:19:2E:20	,	Active
 MD. SAYADULLAH MUZAHID	,	8801911832777	,		,	Satbaria	,	muzahid77@bp	,	1	,	6C:68:A4:D6:1A:A7	,	Active
@@ -25,56 +25,55 @@ MD. ROFIQUL ISLAM	,	8801751381139	,		,	Satbaria	,	rofiqul39@bp	,	1	,	00:D5:9E:6D
 MD. JALAL UDDIN	,	8801887140825	,		,	Satbaria	,	jalal25@bp	,	1	,	C8:3A:35:1D:B4:88	,	Active
 MD. NOZRUL ISLAM	,	8801786200147	,		,	Satbaria	,	landoffice@bp	,	1	,	A0:7D:01:04:A5:22	,	Active
 BILLAL HOSSION	,	8801607835719	,		,	Satbaria	,	billal19@bp	,	1	,	6C:68:A4:D6:18:CF	,	Active
-MD. ABDULLAH AL MAMUN	,	8801644037290	,		,	Satbaria	,	mamun90@bp	,	1	,		,	Active
-MD ABDUR SATTAR DOFADAR	,	8801707856097	,		,	Satbaria	,	sattar97@bp	,	1	,		,	Active
+MD. ABDULLAH AL MAMUN	,	8801644037290	,		,	Satbaria	,	mamun90@bp	,	1	,	48-46-FB-53-1B-3C	,	Active
+MD ABDUR SATTAR DOFADAR	,	8801707856097	,		,	Satbaria	,	sattar97@bp	,	1	,	70:A5:6A:77:A5:AA	,	Active
 MD. HASAN ALI	,	8801757029156	,		,	Chadra	,	hasan56@bp	,	2	,	A2:3E:02:26:B6:40	,	Active
-AL AMIN	,	8801995563218	,		,	Chadra	,	amin18@bp	,	2	,		,	Active
-MD IMRAN HOSEN	,	8801919486060	,		,	Chadra	,	imran60@bp	,	2	,		,	Active
-MD. AL MAMUN	,	8801725031421	,		,	Chadra	,	mamun21@bp	,	2	,		,	Active
-NAHID HASAN	,	8801717530658	,		,	Chadra	,	nahid58@bp	,	2	,		,	Active
-MD NAZMUL HOSSAIN	,	8801796368752	,		,	Chadra	,	nazmul52@bp	,	2	,		,	Active
-SHORIFUL ISLAM	,	8801914485943	,		,	Chadra	,	shoriful43@bp	,	2	,		,	Active
-SHIMUL ROY	,	88017913437879	,		,	Chadra	,	shimul79@bp	,	2	,		,	Active
-ROFIQUL ISLAM GAZI	,	8801576492945	,		,	Chadra	,	rofiqul45@bp	,	2	,		,	Active
-MAHMUDUL HASAN	,	8801720409174	,		,	Chadra	,	mahmudul74@bp	,	2	,		,	Active
-PARVES MOSARAF	,	8801746752481	,		,	Chadra	,	parves81@bp	,	2	,		,	Active
-MD. AFZAL BASHAR	,	8801717726271	,		,	Chadra	,	bashar71@bp	,	2	,		,	Active
-MD ABDUS SALAM	,	8801325805286	,		,	Chadra	,	salam86@bp	,	2	,		,	Active
-MD. MEHEDI HASAN	,	8801926866045	,		,	Chadra	,	mehedi45@bp	,	2	,		,	Active
-MD. ANAMUl HASAN	,	8801716017306	,		,	Chadra	,	anamul06@bp	,	2	,		,	Active
-ABUL KALAM	,	8801968286558	,		,	Chadra	,	kalam58@bp	,	2	,		,	Active
-MD. KAMRUL AMIN	,	8801314968383	,		,	Chadra	,	kamrul83@bp	,	2	,		,	Active
-SHAK TREQUL AIZAD	,	8801409643695	,		,	Chadra	,	trequl95@bp	,	2	,		,	Active
-MD.HADEUZZAMAN	,	8801717153506	,		,	Chadra	,	hadeur06@bp	,	2	,		,	Active
-RAKIBUL HASAN SHAHIN	,	8801713901548	,		,	Chadra	,	sahin48@bp	,	2	,		,	Active
-SONIA KHATUN	,	8801404915191	,		,	Chadra	,	sonia91@bp	,	2	,		,	Active
-MD. ASHRAFUL ISLAM	,	8801955226648	,		,	Chadra	,	ashraful@bp	,	2	,		,	Active
-MD. ASHRAFUL ISLAM	,	8801993087475	,		,	Chadra	,	ashraful75@bp	,	2	,		,	Active
-MD. TORIQUZZAMAN	,	8801740982182	,		,	Chadra	,	toriqul82@bp	,	2	,		,	Active
-MD. ABDUL JOLIL	,	8801760914130	,		,	Chadra	,	jolil30@bp	,	2	,		,	Active
-MD. MOHIDUR RAHMAN MOROL	,	8801403211762	,		,	Chadra	,	mohidur62@bp	,	2	,		,	Active
-MD. HUMAYAN KABIR	,	8801878804912	,		,	Chadra	,	bankasia12@bp	,	2	,		,	Active
-MD PALASH HOSSAIN	,	8801933832413	,		,	Chadra	,	palash13@bp	,	2	,		,	Active
-MD. JAHIDUZZMAN	,	8801519606819	,		,	Chadra	,	sumon19@bp	,	2	,		,	Active
-MD. SALIM HOSEN	,	8801764246234	,		,	Chadra	,	salim34@bd	,	2	,		,	Active
-KAMRUZZAMAN	,	8801926866430	,		,	Chadra	,	kamrul30@bp	,	2	,		,	Active
-MST. ROZINA BEGUM	,	8801328842247	,		,	Chadra	,	rozina47@bp	,	2	,		,	Active
-MARUF HOSSAIN	,	8801725727274	,		,	Chadra	,	maruf74@bp	,	2	,		,	Active
-MD SAKIB MOROL	,	8801943950810	,		,	Chadra	,	sakib10@bp	,	2	,		,	Active
-MD SIFUR RAHMAN	,	8801746752200	,		,	Chadra	,	sifur@bp	,	2	,		,	Active
+AL AMIN	,	8801995563218	,		,	Chadra	,	amin18@bp	,	2	,	80:F7:A6:C2:E4:4E	,	Active
+MD IMRAN HOSEN	,	8801919486060	,		,	Chadra	,	imran60@bp	,	2	,	70:A5:6A:90:C5:94	,	Active
+MD. AL MAMUN	,	8801725031421	,		,	Chadra	,	mamun21@bp	,	2	,	70-A5-6A-E2-FA-16	,	Active
+NAHID HASAN	,	8801717530658	,		,	Chadra	,	nahid58@bp	,	2	,	80:F7:A6:C2:F2:30	,	Active
+MD NAZMUL HOSSAIN	,	8801796368752	,		,	Chadra	,	nazmul52@bp	,	2	,	A0:7D:12:15:53:20	,	Active
+SHORIFUL ISLAM	,	8801914485943	,		,	Chadra	,	shoriful43@bp	,	2	,	70:A5:6A:90:D3:CE	,	Active
+SHIMUL ROY	,	88017913437879	,		,	Chadra	,	shimul79@bp	,	2	,	D4:6A:A8:38:70:7A	,	Active
+ROFIQUL ISLAM GAZI	,	8801576492945	,		,	Chadra	,	rofiqul45@bp	,	2	,	00:D3:9E:78:58:7E	,	Active
+MAHMUDUL HASAN	,	8801720409174	,		,	Chadra	,	mahmudul74@bp	,	2	,	A0:7C:06:27:14:BA	,	Active
+PARVES MOSARAF	,	8801568232571	,		,	Chadra	,	parves71@bp	,	2	,	6C:68:A4:46:03:D0	,	Active
+MD. AFZAL BASHAR	,	8801717726271	,		,	Chadra	,	bashar71@bp	,	2	,	80:F7:A6:C6:02:CA	,	Active
+MD ABDUS SALAM	,	8801325805286	,		,	Chadra	,	salam86@bp	,	2	,	68:8F:84:DD:40:A1	,	Active
+MD. MEHEDI HASAN	,	8801926866045	,		,	Chadra	,	mehedi45@bp	,	2	,	A2:3D:12:2A:C4:60	,	Active
+MD. ANAMUl HASAN	,	8801716017306	,		,	Chadra	,	anamul06@bp	,	2	,	70:A5:6A:90:B8:34	,	Active
+ABUL KALAM	,	8801968286558	,		,	Chadra	,	kalam58@bp	,	2	,	a2:3d:12:29:bf:50	,	Active
+MD. KAMRUL AMIN	,	8801314968383	,		,	Chadra	,	kamrul83@bp	,	2	,	A0:7C:06:15:1A:2F	,	Active
+SHAK TREQUL AIZAD	,	8801409643695	,		,	Chadra	,	trequl95@bp	,	2	,	6C:68:A4:44:8D:48	,	Active
+MD.HADEUZZAMAN	,	8801717153506	,		,	Chadra	,	hadeur06@bp	,	2	,	70:A5:6A:E2:80:DA	,	Active
+RAKIBUL HASAN SHAHIN	,	8801713901548	,		,	Chadra	,	sahin48@bp	,	2	,	60-D2-DD-04-6A-1E	,	Active
+SONIA KHATUN	,	8801404915191	,		,	Chadra	,	sonia91@bp	,	2	,	6C:68:A4:9F:6B:EC	,	Active
+MD. ASHRAFUL ISLAM	,	8801955226648	,		,	Chadra	,	ashraful48@bp	,	2	,	70:A5:6A:E2:81:42	,	Active
+MD. ASHRAFUL ISLAM	,	8801993087475	,		,	Chadra	,	ashraful75@bp	,	2	,	80:F7:A6:C2:DF:0E	,	Active
+MD. TORIQUZZAMAN	,	8801740982182	,		,	Chadra	,	toriqul82@bp	,	2	,	70:A5:6A:90:C5:78	,	Active
+MD. ABDUL JOLIL	,	8801760914130	,		,	Chadra	,	jolil30@bp	,	2	,	00:D5:9E:81:83:32	,	Active
+MD. MOHIDUR RAHMAN MOROL	,	8801403211762	,		,	Chadra	,	mohidur62@bp	,	2	,	A2:3E:05:23:31:D0	,	Active
+MD. HUMAYAN KABIR	,	8801878804912	,		,	Chadra	,	bankasia12@bp	,	2	,	00:D5:9E:81:83:32	,	Active
+MD PALASH HOSSAIN	,	8801933832413	,		,	Chadra	,	palash13@bp	,	2	,	70:A5:6A:90:C5:94	,	Active
+MD. JAHIDUZZMAN	,	8801519606819	,		,	Chadra	,	sumon19@bp	,	2	,	70-A5-6A-90-C5-A0	,	Active
+MD. SALIM HOSEN	,	8801764246234	,		,	Chadra	,	salim34@bd	,	2	,	6C:68:A4:D6:C1:17	,	Active
+KAMRUZZAMAN	,	8801926866430	,		,	Chadra	,	kamrul30@bp	,	2	,	70-A5-6A-2E-9D-A6	,	Active
+MST. ROZINA BEGUM	,	8801328842247	,		,	Chadra	,	rozina47@bp	,	2	,	A2:4E:02:27:AD:D0	,	Active
+MARUF HOSSAIN	,	8801725727274	,		,	Chadra	,	maruf74@bp	,	2	,	A2:3E:03:07:3E:10	,	Active
+MD SAKIB MOROL	,	8801943950810	,		,	Chadra	,	sakib10@bp	,	2	,	30:3D:51:E2:A8:EE	,	Active
 Milon Chakrabarti	,	8801713918183	,		,	Chadra	,	milon83@bp	,	2	,	4C:D7:C8:A7:D8:CB	,	Active
 JUBAYER HOSSAIN	,	8801943760850	,		,	Chadra	,	jubayer50@bp	,	2	,	6C:68:A4:C6:8C:50	,	Active
-MD. RASEL HOSSEN	,	8801793345287	,		,	Satbaria	,	rasel87@bp	,	2	,		,	Active
-MD. SOBUJ HOSSAIN	,	8801788365590	,		,	Satbaria	,	sobuj90@bp	,	2	,		,	Active
-MD MAMUN RAHMAN	,	8801936893226	,		,	Satbaria	,	mamun70@bp	,	2	,		,	Active
-JAHID HASAN AKASH	,	8801792096972	,		,	Satbaria	,	akash72@bp	,	2	,		,	Active
-MD. MAHADI HASSAN	,	8801319590785	,		,	Satbaria	,	mahadi85@bp	,	2	,		,	Active
+MD. RASEL HOSSEN	,	8801793345287	,		,	Satbaria	,	rasel87@bp	,	1	,	70-A5-6A-0C-06-3C	,	Active
+MD. SOBUJ HOSSAIN	,	8801788365590	,		,	Satbaria	,	sobuj90@bp	,	1	,	A2:3D:08:14:31:50	,	Active
+MD MAMUN RAHMAN	,	8801936893226	,		,	Satbaria	,	mamun70@bp	,	2	,	48-46-FB-53-1B-3C	,	Active
+JAHID HASAN AKASH	,	8801792096972	,		,	Satbaria	,	akash72@bp	,	2	,	80:F7:A6:7E:CF:C3	,	Active
+MD. MAHADI HASSAN	,	8801319590785	,		,	Satbaria	,	mahadi85@bp	,	2	,	70-A5-6A-0B-20-BC	,	Active
 MEHIDI HASAN (Rubel)	,	8801947999907	,		,	Satbaria	,	rubel07@bp	,	2	,		,	Active
-ABUL KASEM	,	8801768595106	,		,	Satbaria	,	kasem06@bp	,	2	,		,	Active
+ABUL KASEM	,	8801768595106	,		,	Satbaria	,	kasem06@bp	,	2	,	00:D3:9E:C0:EC:8E	,	Active
 MD SUJUN HOSSEN	,	8801308610550	,		,	Satbaria	,	sujon50@bp	,	2	,	A2-8C-06-08-5E-50	,	Active
-MD EMAMUL HOSSEN	,	8801643134533	,		,	Satbaria	,	emamul33@bp	,	2	,		,	Active
-MD. ABDUL KADER	,	8801307551358	,		,	Satbaria	,	kader58@bp	,	2	,		,	Active
-MD. SHOHAG HOSSAIN	,	8801957800967	,		,	Satbaria	,	shohag67@bp	,	2	,		,	Active
+MD EMAMUL HOSSEN	,	8801643134533	,		,	Satbaria	,	emamul33@bp	,	2	,	70-A5-6A-90-C5-94	,	Active
+MD. ABDUL KADER	,	8801307551358	,		,	Satbaria	,	kader58@bp	,	2	,	6C:68:A4:D6:E1:03	,	Active
+MD. SHOHAG HOSSAIN	,	8801957800967	,		,	Satbaria	,	shohag67@bp	,	2	,	00:D5:9E:D5:53:16	,	Active
 MHAMUDUL HASSAIN	,	8801923987259	,		,	Satbaria	,	mhamudul59@bp	,	2	,		,	Active
 MD. ENSAN ALI GAZI	,	8801316226811	,		,	Satbaria	,	ensan11@bp	,	2	,		,	Active
 HABIBUR RAHMAN	,	8801314968398	,		,	Satbaria	,	habibur98@bp	,	2	,		,	Active
@@ -129,10 +128,10 @@ MD. ABDULLAH AL FORHAD	,	8801720613134	,		,	Begumpur	,	forhad34@bp	,	4	,		,	Acti
 MD. GOLAM RASUL	,	8801790341746	,		,	Begumpur	,	rosul46@bp	,	4	,		,	Active
 MD. WALIUR RAHMAN	,	8801747998086	,		,	Begumpur	,	waliur86@bp	,	4	,		,	Active
 MD. SAZID HASAN TUHIN	,	8801634789769	,		,	Begumpur	,	tuhin69@bp	,	4	,		,	Active
-MD EKRAMUL HOSSEN	,	8801781422975	,		,	Begumpur	,	ekramul75@bp	,	4	,		,	Active
+MD EKRAMUL HOSSEN	,	8801781422975	,		,	Begumpur	,	ekramul75@bp	,	4	,	6C:68:A4:D6:4E:BB	,	Active
 MD. MONIRUZZANAN	,	8801736888447	,		,	Begumpur	,	moni47@bp	,	4	,		,	Active
 MD. TAREK ANWAR	,	8801916058277	,		,	Begumpur	,	tarek77@bp	,	4	,		,	Active
-JIHAD HASAN	,	8801795429212	,		,	Begumpur	,	jihad12@bp	,	4	,		,	Active
+JIHAD HASAN	,	8801795429212	,		,	Begumpur	,	jihad12@bp	,	4	,	70:A5:6A:0B-:F1:D0	,	Active
 MD. MASUM BELLAL	,	8801708089394	,		,	Begumpur	,	masum94@bp	,	4	,		,	Active
 MD Shadat Hossain	,	8801770578134	,		,	Begumpur	,	sahdat34@bp	,	4	,		,	Active
 MST. REHENA BEGUM	,	8801972574530	,		,	Begumpur	,	anas30@bp	,	4	,		,	Active

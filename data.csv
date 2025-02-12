@@ -1,14 +1,14 @@
 NAME	,	PHONE NUMBER	,	ID	,	ADDRESS	,	Username	,	PON	,	MAC	,	STATUS
 MD. AMIR HOSSAIN	,	8801741417236	,	38428	,	Begumpur	,	amir36@bp	,	3	,		,	Active
 MD HASANUR RAHMAN	,	8801303645849	,	38013	,	Begumpur	,	hasanur49@bp	,	3	,		,	Active
-MD AHADUL ISLAM (DOKAN)	,	8801703717899	,	38007	,	Begumpur	,	abdulla75@bp	,	3	,		,	Active
+ABDULLAH AL MAMUN (D)	,	8801703717899	,	38007	,	Begumpur	,	abdulla75@bp	,	3	,		,	Active
 MD. IMAMUL HOSSIN	,	8801721967046	,	38008	,	Begumpur	,	imamul46@bp	,	3	,		,	Active
 MD KAMRUZZAMAN GAZI	,	8801728348282	,	38009	,	Begumpur	,	kamrul82@bp	,	3	,		,	Active
 GAZI MAZHARUL ANWAR	,	8801303802028	,	38429	,	Begumpur	,	anwar28@bp	,	3	,		,	Active
 MD RAIHAN HOSSAIN	,	8801778609151	,	38433	,	Begumpur	,	raihan51@bp	,	3	,		,	Active
 HASANUZZAMAN 	,	8801793323108	,	38420	,	Begumpur	,	hasan08@bp	,	3	,		,	Active
 MD. IKRAMUJJAMAN	,	8801765043199	,	38436	,	Begumpur	,	ikramul99@bp	,	3	,		,	Active
-ABDULLAH AL MAMUN	,	8801973717899	,	38437	,	Begumpur	,	mamun99@bp	,	3	,		,	Active
+ABDULLAH AL MAMUN (H)	,	8801973717899	,	38437	,	Begumpur	,	mamun99@bp	,	3	,		,	Active
 MD ROBIUL ISLAM	,	8801858622815	,	38438	,	Begumpur	,	robiul15@bp	,	3	,		,	Active
 MD. SALAUDDIN GAJI	,	8801332587735	,	38451	,	Begumpur	,	salauddin35@bp	,	3	,		,	Active
 GOLAM MOSTAFA	,	8801642654281	,	37906	,	Begumpur	,	golam81@bp	,	3	,		,	Active
@@ -61,14 +61,14 @@ SEFALI KHATUN	,	8801748315594	,	37967	,	Begumpur	,	sefali94@bp	,	4	,		,	Active
 MD. RAKIB HOSSEN	,	8801783774319	,	37970	,	Begumpur	,	rakib19@bp	,	4	,		,	Active
 AZIM GAZI	,	8801725071951	,	37983	,	Begumpur	,	azim51@bp	,	4	,		,	Active
 MD. HASAN	,	8801792093462	,	37980	,	Begumpur	,	hasan62@bp	,	4	,		,	Active
-MD. HAFIZUR RAHMAN (OSMAN)	,	8801793434359	,	37984	,	Begumpur	,	osman59@bp	,	4	,		,	Active
+MD. OSMAN GONI (D)	,	8801793434359	,	37984	,	Begumpur	,	osman59@bp	,	4	,		,	Active
 SHAHIN ALAM	,	8801718015197	,	37996	,	Begumpur	,	shahin97@bp	,	4	,		,	Active
 MD. AZHARUL ISLAM	,	8801304550552	,	38020	,	Begumpur	,	azarul52@bp	,	4	,		,	Active
 FOZILA	,	8801722974898	,	38022	,	Begumpur	,	fozila98@bp	,	4	,		,	Active
 MD. RAKIB HOSSAIN	,	8801300476423	,	38023	,	Begumpur	,	rakib23@bp	,	4	,		,	Active
 MOHAMMAD SADDAM	,	8801712594392	,	38034	,	Begumpur	,	saggat92@bp	,	4	,		,	Active
 MD MOHIBBUR RAHMAN	,	8801759567040	,	38039	,	Begumpur	,	mohibur40@bp	,	4	,		,	Active
-SOBAHAN GAZI	,	8801737789336	,	38016	,	Begumpur	,	chanta36@bp	,	4	,		,	Active
+OBAIDUL GAZI CHANTA (H)	,	8801737789336	,	38016	,	Begumpur	,	chanta36@bp	,	4	,		,	Active
 MD. SAHIN (AKTER)	,	8801785236412	,	38449	,	Begumpur	,	sahin12@bp	,	4	,		,	Active
 Sulaiman Hossen	,	8801305025615	,	38001	,	Begumpur	,	sulaiman15@bp	,	4	,	C4:70:0B:93:02:28	,	Active
 MD. TOHIDUR RAHMAN	,	8801310944202	,	38434	,	Chadra	,	tohidur02@bp	,	1	,	A2:4E:02:27:AD:70	,	Active
@@ -156,7 +156,7 @@ ASHRAFUL ISLAM	,	8801760944475	,	38439	,	Satbaria	,	ashraful475@bp	,	2	,	70:A5:6
 MD MAMUN RAHMAN	,	8801936893226	,	38446	,	Satbaria	,	mamun70@bp	,	2	,	48-46-FB-53-1B-3C	,	Active
 JAHID HASAN AKASH	,	8801792096972	,	37919	,	Satbaria	,	akash72@bp	,	2	,	80:F7:A6:7E:CF:C3	,	Active
 MD. MAHADI HASSAN	,	8801319590785	,	38444	,	Satbaria	,	mahadi85@bp	,	2	,	70-A5-6A-0B-20-BC	,	Active
-MEHIDI HASAN (Rubel)	,	8801947999907	,	38448	,	Satbaria	,	rubel07@bp	,	2	,		,	Active
+MEHIDI HASAN (RUBEL)	,	8801947999907	,	38448	,	Satbaria	,	rubel07@bp	,	2	,		,	Active
 ABUL KASEM	,	8801768595106	,	38443	,	Satbaria	,	kasem06@bp	,	2	,	00:D3:9E:C0:EC:8E	,	Active
 MD SUJUN HOSSEN	,	8801308610550	,	38032	,	Satbaria	,	sujon50@bp	,	2	,	A2-8C-06-08-5E-50	,	Active
 MD EMAMUL HOSSEN	,	8801643134533	,	38026	,	Satbaria	,	emamul33@bp	,	2	,	70-A5-6A-90-C5-94	,	Active
@@ -166,8 +166,8 @@ MHAMUDUL HASSAIN	,	8801923987259	,	37961	,	Satbaria	,	mhamudul59@bp	,	2	,		,	Act
 MD. ENSAN ALI GAZI	,	8801316226811	,	37962	,	Satbaria	,	ensan11@bp	,	2	,		,	Active
 HABIBUR RAHMAN	,	8801314968398	,	37978	,	Satbaria	,	habibur98@bp	,	2	,		,	Active
 MOHASIN ALI	,	8801740905228	,	37993	,	Satbaria	,	mohasin28@bp	,	2	,	A2:3D:11:1B:59:40	,	Active
-RIMA KHATUN	,	8801711858241	,	37998	,	Satbaria	,	ripon41@bp	,	2	,		,	Active
-MD. RIPON RAHMAN(HOME)	,	8801736731514	,	38038	,	Satbaria	,	ripon14@bp	,	2	,		,	Active
+MD. RIPON RAHMAN (D)	,	8801711858241	,	37998	,	Satbaria	,	ripon41@bp	,	2	,		,	Active
+MD. RIPON RAHMAN (H)	,	8801736731514	,	38038	,	Satbaria	,	ripon14@bp	,	2	,		,	Active
 Latif	,	8801925223557	,	38000	,	Satbaria	,	latif57@bp	,	2	,		,	Active
 MD. HAFIZUR RAHMAN	,	8801976141516	,	38441	,	Satbaria	,	hafizur43@bp	,	3	,		,	Active
 MD.ABDUL QUDDUS	,	8801725436103	,	38019	,	Satbaria	,	quddus03@bp	,	4	,	80:F7:A6:C2:D7:90	,	Active

@@ -387,17 +387,17 @@
         "username": "sohag87@bp",
         "pon": "4",
         "mac": "80:D4:A5:5E:1E:6F",
-        "url": ""
+        "url": "https://radius.yetfix.com/client-payment/20250504132536548repLZh"
     },
     {
         "name": "MD. ABDUL AHAD",
         "phone": "01824776082",
         "id": "37945",
         "address": "Koriakhali",
-        "username": "https://radius.yetfix.com/client-payment/20250504132536548repLZh@bp",
+        "username": "mintu82@bp",
         "pon": "3",
         "mac": "80:F7:A6:7A:B1:A9",
-        "url": ""
+        "url": "https://radius.yetfix.com/client-payment/20250504132536548repLZh"
     },
     {
         "name": "MD. ZIAUR RAHMAN",
@@ -1560,26 +1560,6 @@
         "url": "https://radius.yetfix.com/client-payment/20250504132535749Wg2Ly2"
     },
     {
-        "name": "MEHIDI HASAN (RUBEL)",
-        "phone": "01947999907",
-        "id": "38448",
-        "address": "Satbaria",
-        "username": "rubel07@bp",
-        "pon": "2",
-        "mac": "A2:3E:01:20:1A:00",
-        "url": ""
-    },
-    {
-        "name": "MD. SAHIN (AKTER)",
-        "phone": "01785236412",
-        "id": "38449",
-        "address": "Begumpur",
-        "username": "sahin12@bp",
-        "pon": "4",
-        "mac": "",
-        "url": ""
-    },
-    {
         "name": "MD SAKIB MOROL",
         "phone": "01943950810",
         "id": "38450",
@@ -1598,26 +1578,6 @@
         "pon": "3",
         "mac": "",
         "url": "https://radius.yetfix.com/client-payment/2025050413253582101EmBs"
-    },
-    {
-        "name": "SANKAR KUMAR PAUL",
-        "phone": "01714632881",
-        "id": "38452",
-        "address": "Begumpur",
-        "username": "sankar81@bp",
-        "pon": "3",
-        "mac": "",
-        "url": ""
-    },
-    {
-        "name": "MD TANVIR ISLAM FAHIM",
-        "phone": "01611090876",
-        "id": "38453",
-        "address": "Begumpur",
-        "username": "tanvir76@bp",
-        "pon": "3",
-        "mac": "",
-        "url": ""
     },
     {
         "name": "JUBAYER HOSSAIN",
@@ -1688,16 +1648,6 @@
         "pon": "2",
         "mac": "00:00:00:00:00:00",
         "url": "https://radius.yetfix.com/client-payment/2025030311402037038cm6H"
-    },
-    {
-        "name": "MD. YOUSHOP ALI",
-        "phone": "+8801337221214",
-        "id": "42709",
-        "address": "Chadra",
-        "username": "youshop14@bp",
-        "pon": "2",
-        "mac": "00:00:00:00:00:00",
-        "url": ""
     },
     {
         "name": "MD JAHID HASAN SHAWON (D)",
@@ -1818,16 +1768,6 @@
         "pon": "3",
         "mac": "00:00:00:00:00:00",
         "url": "https://radius.yetfix.com/client-payment/20250427202828928JIqMzn"
-    },
-    {
-        "name": "ASIF HOSSEN",
-        "phone": "+8801766741155",
-        "id": "56458",
-        "address": "Satbaria",
-        "username": "asif55@bp",
-        "pon": "1",
-        "mac": "00:00:00:00:00:00",
-        "url": ""
     },
     {
         "id": "60065",
@@ -1968,16 +1908,6 @@
         "pon": "5",
         "mac": "00:00:00:00:00:00",
         "url": "https://radius.yetfix.com/client-payment/20250708114051319x9nj7f"
-    },
-    {
-        "id": "109741",
-        "name": "MD ASADUL ISLAM",
-        "phone": "01618261571",
-        "address": "Satbaria",
-        "username": "asadul71@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
-        "status": "Inactive"
     },
     {
         "name": "MD ABDUR RAMAN",
@@ -2698,5 +2628,14 @@
         "pon": "3",
         "mac": "B4:64:15:BA:49:17",
         "url": "https://radius.yetfix.com/client-payment/20260108181401946Xtnxli"
+    },
+        "id": "239107",
+        "name": "sahid39@bp",
+        "phone": "01918528839",
+        "address": "Satbaria ",
+        "username": "sahid39@bp",
+        "pon": "3",
+        "mac": "B4:64:15:BA:49:17",
+        "url": "https://radius.yetfix.com/client-payment/20260114131151270pYajnz"
     }
 ]

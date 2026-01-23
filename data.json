@@ -2638,5 +2638,15 @@
         "pon": "3",
         "mac": "B4:64:15:BA:49:17",
         "url": "https://radius.yetfix.com/client-payment/20260114131151270pYajnz"
+    },
+    {
+        "id": "243463",
+        "name": "MD SHARIFUL ISLAM",
+        "phone": "01985714007",
+        "address": "Koriakhali",
+        "username": "shariful07@bp",
+        "pon": "3",
+        "mac": "",
+        "url": "https://radius.yetfix.com/client-payment/20260123172621545gUAiki"
     }
 ]

@@ -2648,5 +2648,15 @@
         "pon": "3",
         "mac": "",
         "url": "https://radius.yetfix.com/client-payment/20260123153800272kWkVnq"
+    },
+    {
+        "id": "243656",
+        "name": "MD ALIM",
+        "phone": "01923848188",
+        "address": "Chadra",
+        "username": "alim88@bp",
+        "pon": "2",
+        "mac": "B4:64:15:BA:48:4F",
+        "url": "https://radius.yetfix.com/client-payment/20260125143930632EAgKbL"
     }
 ]

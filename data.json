@@ -2668,5 +2668,15 @@
         "pon": "2",
         "mac": "4C:AE:1C:19:05:C7",
         "url": "https://radius.yetfix.com/client-payment/20250504132535980MPHU6A"
+     },
+    {
+        "id": "243838",
+        "name": "MD. ATIAR RAHMAN",
+        "phone": "01760456170",
+        "address": "Chadra",
+        "username": "atiar70@bp",
+        "pon": "2",
+        "mac": "",
+        "url": "https://radius.yetfix.com/client-payment/20260127142641683FHgrMh"
     }
 ]

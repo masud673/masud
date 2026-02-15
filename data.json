@@ -16,7 +16,7 @@
         "address": "Begumpur",
         "username": "mahedi69@bp",
         "pon": "3",
-        "mac": "78:D7:52:8D:C2:58",
+        "mac": "A2:4F:01:11:52:00",
         "url": "https://radius.yetfix.com/client-payment/20250504132534933SeKycV"
     },
     {
@@ -36,7 +36,7 @@
         "address": "Chadra",
         "username": "salam86@bp",
         "pon": "2",
-        "mac": "68:8F:84:DD:40:A1",
+        "mac": "70:A5:6A:E2:89:EC",
         "url": "https://radius.yetfix.com/client-payment/202505041325350032W4ZOi"
     },
     {
@@ -45,7 +45,7 @@
         "phone": "01836137797",
         "address": "Satbaria",
         "username": "jabbar97@bp",
-        "pon": "1",
+        "pon": "6",
         "mac": "A2:3D:12:29:8E:40",
         "url": "https://radius.yetfix.com/client-payment/20250504132535034RV7eHQ"
     },
@@ -55,8 +55,8 @@
         "phone": "01830959693",
         "address": "Begumpur",
         "username": "anisur93@bp",
-        "pon": "3",
-        "mac": "00:D3:9E:15:5E:C0",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250504132535075pqdOfP"
     },
     {
@@ -66,7 +66,7 @@
         "address": "Begumpur",
         "username": "jannatul31@bp",
         "pon": "3",
-        "mac": "",
+        "mac": "A2:3D:08:14:3A:10",
         "url": "https://radius.yetfix.com/client-payment/202505041325351073mQPBi"
     },
     {
@@ -76,7 +76,7 @@
         "address": "Begumpur",
         "username": "furkan92@bp",
         "pon": "3",
-        "mac": "3C:F8:08:2E:96:32",
+        "mac": "A8:BF:3C:60:E7:25",
         "url": "https://radius.yetfix.com/client-payment/20250504132535138TI4B0I"
     },
     {
@@ -85,8 +85,8 @@
         "id": "37914",
         "address": "Begumpur",
         "username": "hadiur74@bp",
-        "pon": "3",
-        "mac": "70:A5:6A:2F:07:2D",
+        "pon": "5",
+        "mac": "4C:D7:C8:E8:88:38",
         "url": "https://radius.yetfix.com/client-payment/20250504132535171Wo66tf"
     },
     {
@@ -95,7 +95,7 @@
         "id": "37915",
         "address": "Begumpur",
         "username": "kobir86@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "80:F7:A6:7E:CF:7D",
         "url": "https://radius.yetfix.com/client-payment/20250504132535205D8tnAS"
     },
@@ -106,7 +106,7 @@
         "address": "Begumpur",
         "username": "jihad12@bp",
         "pon": "4",
-        "mac": "70:A5:6A:0B::F1:D0",
+        "mac": "A2:8D:04:20:CC:80",
         "url": "https://radius.yetfix.com/client-payment/202505041325352395ugkgd"
     },
     {
@@ -175,8 +175,8 @@
         "id": "37924",
         "address": "Chadra",
         "username": "mehedi45@bp",
-        "pon": "2",
-        "mac": "A2:3D:12:2A:C4:60",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250825114855327VZBoje"
     },
     {
@@ -205,7 +205,7 @@
         "phone": "01845627773",
         "address": "Begumpur",
         "username": "bokul73@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "70:A5:6A:90:C7:16",
         "url": "https://radius.yetfix.com/client-payment/20250504132535752EDBriF"
     },
@@ -245,8 +245,8 @@
         "id": "37931",
         "address": "Satbaria",
         "username": "nazmul60@bp",
-        "pon": "1",
-        "mac": "4C:AE:1C:19:05:C7",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -255,7 +255,7 @@
         "id": "37932",
         "address": "Satbaria",
         "username": "shohag67@bp",
-        "pon": "2",
+        "pon": "6",
         "mac": "00:D5:9E:D5:53:16",
         "url": "https://radius.yetfix.com/client-payment/20250504132536034akaXxM"
     },
@@ -285,7 +285,7 @@
         "id": "37935",
         "address": "Satbaria",
         "username": "sattar97@bp",
-        "pon": "1",
+        "pon": "6",
         "mac": "70:A5:6A:77:A5:AA",
         "url": "https://radius.yetfix.com/client-payment/2025050413253618944cNww"
     },
@@ -295,7 +295,7 @@
         "id": "37936",
         "address": "Satbaria",
         "username": "rasel87@bp",
-        "pon": "1",
+        "pon": "6",
         "mac": "70:A5:6A:0C:06:3C",
         "url": "https://radius.yetfix.com/client-payment/20250504132536246IqDU5N"
     },
@@ -305,7 +305,7 @@
         "id": "37937",
         "address": "Begumpur",
         "username": "foysal18@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "A8:BF:3C:60:E6:15",
         "url": "https://radius.yetfix.com/client-payment/20250504132536295hZllQv"
     },
@@ -326,7 +326,7 @@
         "address": "Chadra",
         "username": "kalam58@bp",
         "pon": "2",
-        "mac": "a2:3d:12:29:bf:50",
+        "mac": "B4:64:15:BA:4D:BF",
         "url": "https://radius.yetfix.com/client-payment/20250504132536373WToX0q"
     },
     {
@@ -336,7 +336,7 @@
         "address": "Chadra",
         "username": "kamrul83@bp",
         "pon": "2",
-        "mac": "A0:7C:06:15:1A:2F",
+        "mac": "4C:46:D1:B1:BC:19",
         "url": "https://radius.yetfix.com/client-payment/20250504132536407HYHlzK"
     },
     {
@@ -355,8 +355,8 @@
         "id": "37941",
         "address": "Chadra",
         "username": "trequl95@bp",
-        "pon": "2",
-        "mac": "6C:68:A4:44:8D:48",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250504132536446ttg9Cp"
     },
     {
@@ -375,7 +375,7 @@
         "id": "37943",
         "address": "Begumpur",
         "username": "moni67@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "70:A5:6A:77:A6:CC",
         "url": "https://radius.yetfix.com/client-payment/20250504132536513LQPBXB"
     },
@@ -395,7 +395,7 @@
         "id": "37945",
         "address": "Koriakhali",
         "username": "mintu82@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "80:F7:A6:7A:B1:A9",
         "url": "https://radius.yetfix.com/client-payment/20250504132536548repLZh"
     },
@@ -405,7 +405,7 @@
         "id": "37946",
         "address": "Begumpur",
         "username": "ziaur24@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "70:A5:6A:2E:FF:B7",
         "url": "https://radius.yetfix.com/client-payment/20250504132536640hDb84P"
     },
@@ -435,7 +435,7 @@
         "id": "37949",
         "address": "Koriakhali",
         "username": "akhi70@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "80:F7:A6:F9:91:5F",
         "url": "https://radius.yetfix.com/client-payment/20250504132536788XVPWsk"
     },
@@ -445,7 +445,7 @@
         "id": "37950",
         "address": "Satbaria",
         "username": "masudur48@bp",
-        "pon": "1",
+        "pon": "6",
         "mac": "70:A5:6A:90:C7:3C",
         "url": "https://radius.yetfix.com/client-payment/202505041325368487t6OxW"
     },
@@ -475,8 +475,8 @@
         "id": "37953",
         "address": "Chadra",
         "username": "sahin48@bp",
-        "pon": "2",
-        "mac": "60:D2:DD:04:6A:1E",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250504132537000KcEeKL"
     },
     {
@@ -506,7 +506,7 @@
         "address": "Chadra",
         "username": "ashraful@bp",
         "pon": "2",
-        "mac": "70:A5:6A:E2:81:42",
+        "mac": "70:A5:6A:79:9B:CE",
         "url": "https://radius.yetfix.com/client-payment/20250504132534362oaJPyt"
     },
     {
@@ -515,8 +515,8 @@
         "id": "37959",
         "address": "Satbaria",
         "username": "ashraful75@bp",
-        "pon": "2",
-        "mac": "80:F7:A6:C2:DF:0E",
+        "pon": "1",
+        "mac": "70:A5:6A:0B:20:A8",
         "url": "https://radius.yetfix.com/client-payment/20250504132534399iSrm35"
     },
     {
@@ -526,7 +526,7 @@
         "address": "Satbaria",
         "username": "rashid95@bp",
         "pon": "1",
-        "mac": "A0:7D:01:04:A5:22",
+        "mac": "80:F7:A6:C2:DF:2A",
         "url": "https://radius.yetfix.com/client-payment/20250504132534443KqIiEO"
     },
     {
@@ -535,7 +535,7 @@
         "id": "37961",
         "address": "Satbaria",
         "username": "mhamudul59@bp",
-        "pon": "2",
+        "pon": "6",
         "mac": "A0:94:6A:01:8B:B1",
         "url": "https://radius.yetfix.com/client-payment/202505041325344795LpC6Q"
     },
@@ -545,7 +545,7 @@
         "id": "37962",
         "address": "Satbaria",
         "username": "ensan11@bp",
-        "pon": "2",
+        "pon": "6",
         "mac": "A2:4E:02:27:AB:30",
         "url": "https://radius.yetfix.com/client-payment/20250504132534516erIfsN"
     },
@@ -555,8 +555,8 @@
         "id": "37963",
         "address": "Begumpur",
         "username": "roni63@bp",
-        "pon": "4",
-        "mac": "70:A5:6A:90:C6:EC",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250504132534555bsIYeh"
     },
     {
@@ -615,7 +615,7 @@
         "id": "37969",
         "address": "Koriakhali",
         "username": "rabiul31@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "A2:3D:12:2F:3B:F0",
         "url": "https://radius.yetfix.com/client-payment/20250504132534775f6E9tm"
     },
@@ -635,7 +635,7 @@
         "id": "37972",
         "address": "Begumpur",
         "username": "tanvir14@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "A0:7D:07:21:49:CC",
         "url": "https://radius.yetfix.com/client-payment/202505041325348899DsDqN"
     },
@@ -685,7 +685,7 @@
         "id": "37978",
         "address": "Satbaria",
         "username": "habibur98@bp",
-        "pon": "2",
+        "pon": "6",
         "mac": "A0:7D:12:15:5A:80",
         "url": "https://radius.yetfix.com/client-payment/20250504132535115k5kkaW"
     },
@@ -715,7 +715,7 @@
         "id": "37981",
         "address": "Begumpur",
         "username": "hasanur35@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "70:A5:6A:0A:E7:58",
         "url": "https://radius.yetfix.com/client-payment/20250504132535218YX8ZKG"
     },
@@ -725,7 +725,7 @@
         "id": "37982",
         "address": "Begumpur",
         "username": "liton49@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "A2:3D:08:14:22:C0",
         "url": "https://radius.yetfix.com/client-payment/20250504132535254VgIhIY"
     },
@@ -756,7 +756,7 @@
         "address": "Chadra",
         "username": "mohidur62@bp",
         "pon": "2",
-        "mac": "A2:3E:05:23:31:D0",
+        "mac": "A2:3E:07:1A:F0:30",
         "url": "https://radius.yetfix.com/client-payment/20250504132535358KATOjJ"
     },
     {
@@ -776,7 +776,7 @@
         "address": "Begumpur",
         "username": "nahid64@bp",
         "pon": "3",
-        "mac": "A0:7E:12:08:11:CD",
+        "mac": "A0:7E:12:08:11:C8",
         "url": "https://radius.yetfix.com/client-payment/20250504132535448XoNsEu"
     },
     {
@@ -786,7 +786,7 @@
         "address": "Chadra",
         "username": "bankasia12@bp",
         "pon": "2",
-        "mac": "00:D5:9E:81:83:32",
+        "mac": "20:57:AF:83:C1:E0",
         "url": "https://radius.yetfix.com/client-payment/20250504132535506fZepas"
     },
     {
@@ -865,8 +865,8 @@
         "id": "37997",
         "address": "Hazrakathi",
         "username": "ruhul83@bp",
-        "pon": "4",
-        "mac": "A2:3D:08:07:28:20",
+        "pon": "1",
+        "mac": "4C:46:D1:55:6E:B9",
         "url": "https://radius.yetfix.com/client-payment/20250504132535885qHdJ0x"
     },
     {
@@ -875,7 +875,7 @@
         "id": "37999",
         "address": "Satbaria",
         "username": "musanur25@bp",
-        "pon": "4",
+        "pon": "6",
         "mac": "80:F7:A6:C2:D7:10",
         "url": "https://radius.yetfix.com/client-payment/20250504132535955q1OHaN"
     },
@@ -885,8 +885,8 @@
         "id": "38000",
         "address": "Satbaria",
         "username": "latif57@bp",
-        "pon": "2",
-        "mac": "",
+        "pon": "6",
+        "mac": "A2:4E:07:15:0C:B0",
         "url": "https://radius.yetfix.com/client-payment/20250504132535989VbAmv3"
     },
     {
@@ -946,7 +946,7 @@
         "address": "Satbaria",
         "username": "muzahid77@bp",
         "pon": "1",
-        "mac": "6C:68:A4:D6:1A:A7",
+        "mac": "4C:D7:C8:E7:C1:10",
         "url": "https://radius.yetfix.com/client-payment/202505041325362022VhuPt"
     },
     {
@@ -955,8 +955,8 @@
         "phone": "01765803789",
         "address": "Koriakhali",
         "username": "abdulla75@bp",
-        "pon": "6",
-        "mac": "",
+        "pon": "5",
+        "mac": "4C:F9:A4:BB:55:2A",
         "url": "https://radius.yetfix.com/client-payment/20250504132536256sp5kjM"
     },
     {
@@ -965,7 +965,7 @@
         "id": "38008",
         "address": "Begumpur",
         "username": "imamul46@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "6C:68:A4:D6:8D:F7",
         "url": "https://radius.yetfix.com/client-payment/20250504132536312g7RYGj"
     },
@@ -985,8 +985,8 @@
         "id": "38010",
         "address": "Chadra",
         "username": "amin18@bp",
-        "pon": "2",
-        "mac": "80:F7:A6:C2:E4:4E",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -1005,7 +1005,7 @@
         "id": "38013",
         "address": "Begumpur",
         "username": "hasanur49@bp",
-        "pon": "Basic",
+        "pon": "3",
         "mac": "A2:3D:08:14:00:80",
         "url": "https://radius.yetfix.com/client-payment/20250504132536525U3vMmT"
     },
@@ -1025,8 +1025,8 @@
         "id": "38015",
         "address": "Hazrakathi",
         "username": "kamrul65@bp",
-        "pon": "4",
-        "mac": "6C:68:A4:D6:60:C3",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250504132536590FBw9k3"
     },
     {
@@ -1045,8 +1045,8 @@
         "id": "38017",
         "address": "Hazrakathi",
         "username": "alim42@bp",
-        "pon": "4",
-        "mac": "A2:4E:03:19:24:00",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/202505041325366593zWrSs"
     },
     {
@@ -1065,7 +1065,7 @@
         "id": "38019",
         "address": "Satbaria",
         "username": "quddus03@bp",
-        "pon": "4",
+        "pon": "6",
         "mac": "80:F7:A6:C2:D7:90",
         "url": "https://radius.yetfix.com/client-payment/20250504132536728TTeS8s"
     },
@@ -1075,8 +1075,8 @@
         "id": "38020",
         "address": "Begumpur",
         "username": "azarul52@bp",
-        "pon": "4",
-        "mac": "6C:68:A4:C4:5B:D1",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -1085,8 +1085,8 @@
         "id": "38022",
         "address": "Begumpur",
         "username": "fozila98@bp",
-        "pon": "4",
-        "mac": "00:D5:9E:76:B5:DA",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -1105,8 +1105,8 @@
         "id": "38024",
         "address": "Chadra",
         "username": "salim34@bd",
-        "pon": "2",
-        "mac": "6C:68:A4:D6:C1:17",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250504132536971xIzEJ8"
     },
     {
@@ -1155,8 +1155,8 @@
         "id": "38030",
         "address": "Chadra",
         "username": "imran60@bp",
-        "pon": "2",
-        "mac": "70:A5:6A:90:C5:94",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20251018115130451xigEl1"
     },
     {
@@ -1166,7 +1166,7 @@
         "address": "Satbaria",
         "username": "roshidul14@bp",
         "pon": "1",
-        "mac": "A0:7D:01:04:A5:22",
+        "mac": "80:F7:A6:C2:E4:52",
         "url": "https://radius.yetfix.com/client-payment/202505041325372932cPSp1"
     },
     {
@@ -1205,7 +1205,7 @@
         "id": "38035",
         "address": "Satbaria",
         "username": "sobuj90@bp",
-        "pon": "1",
+        "pon": "6",
         "mac": "A2:3D:08:14:31:50",
         "url": "https://radius.yetfix.com/client-payment/20250504132537514Arg5Y9"
     },
@@ -1225,8 +1225,8 @@
         "id": "38037",
         "address": "Begumpur",
         "username": "roni70@bp",
-        "pon": "3",
-        "mac": "24:9E:A1:F0:F5:50",
+        "pon": "5",
+        "mac": "6C:68:A4:E8:80:8B",
         "url": "https://radius.yetfix.com/client-payment/20250504132537624Fb4byV"
     },
     {
@@ -1235,8 +1235,8 @@
         "id": "38038",
         "address": "Satbaria",
         "username": "ripon14@bp",
-        "pon": "2",
-        "mac": "70:A5:6A:90:CF:F6",
+        "pon": "6",
+        "mac": "B4:64:15:B5:FD:76",
         "url": "https://radius.yetfix.com/client-payment/20250504132537658F105Jk"
     },
     {
@@ -1286,7 +1286,7 @@
         "address": "Satbaria",
         "username": "moynul49@bp",
         "pon": "1",
-        "mac": "C8:3A:35:1D:B4:88",
+        "mac": "A2:4E:06:28:99:F0",
         "url": "https://radius.yetfix.com/client-payment/202502071428107884Rq4gJ"
     },
     {
@@ -1305,7 +1305,7 @@
         "id": "38420",
         "address": "Begumpur",
         "username": "hasan08@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "4C:D7:C8:84:2B:F3",
         "url": "https://radius.yetfix.com/client-payment/202505041325348847ftczs"
     },
@@ -1315,7 +1315,7 @@
         "id": "38421",
         "address": "Satbaria",
         "username": "kader58@bp",
-        "pon": "2",
+        "pon": "6",
         "mac": "6C:68:A4:D6:E1:03",
         "url": "https://radius.yetfix.com/client-payment/202505041325349215fgZLy"
     },
@@ -1345,8 +1345,8 @@
         "id": "38424",
         "address": "Koriakhali",
         "username": "khalek79@bp",
-        "pon": "3",
-        "mac": "4C:D7:C8:82:B9:53",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250504132535023l9of5z"
     },
     {
@@ -1365,8 +1365,8 @@
         "id": "38426",
         "address": "Satbaria",
         "username": "mujahid28@bp",
-        "pon": "1",
-        "mac": "E0:E8:E6:2F:50:FF",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250504132535105An2Kb9"
     },
     {
@@ -1415,8 +1415,8 @@
         "id": "38431",
         "address": "Hazrakathi",
         "username": "nozrul72@bp",
-        "pon": "4",
-        "mac": "A2:4E:07:15:45:30",
+        "pon": "3",
+        "mac": "70:A5:6A:77:B5:3C",
         "url": "https://radius.yetfix.com/client-payment/20250504132535284tOBnTj"
     },
     {
@@ -1425,8 +1425,8 @@
         "id": "39456",
         "address": "Chadra",
         "username": "parves49@bp",
-        "pon": "2",
-        "mac": "6C:68:A4:46:03:D0",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -1435,8 +1435,8 @@
         "id": "38433",
         "address": "Begumpur",
         "username": "raihan51@bp",
-        "pon": "3",
-        "mac": "70:A5:6A:0B:F1:CA",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -1445,7 +1445,7 @@
         "id": "38434",
         "address": "Chadra",
         "username": "tohidur02@bp",
-        "pon": "1",
+        "pon": "6",
         "mac": "A2:4E:02:27:AD:70",
         "url": "https://radius.yetfix.com/client-payment/202505041325353584DOPQa"
     },
@@ -1456,7 +1456,7 @@
         "address": "Begumpur",
         "username": "tuhin69@bp",
         "pon": "4",
-        "mac": "E0:E8:E6:3F:E1:00",
+        "mac": "4C:D7:C8:E7:B7:D8",
         "url": "https://radius.yetfix.com/client-payment/2025050413253539452nRWT"
     },
     {
@@ -1465,7 +1465,7 @@
         "id": "38436",
         "address": "Begumpur",
         "username": "ikramul99@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "4C:D7:C8:82:EC:77",
         "url": "https://radius.yetfix.com/client-payment/20250504132535429NaoVA1"
     },
@@ -1476,7 +1476,7 @@
         "address": "Begumpur",
         "username": "mamun99@bp",
         "pon": "3",
-        "mac": "00:D3:9E:73:EC:DC",
+        "mac": "70:A5:6A:0A:FF:A2",
         "url": "https://radius.yetfix.com/client-payment/20250504132535470mKpfr0"
     },
     {
@@ -1485,7 +1485,7 @@
         "id": "38438",
         "address": "Begumpur",
         "username": "robiul15@bp",
-        "pon": "3",
+        "pon": "5",
         "mac": "20:57:AF:9D:14:08",
         "url": "https://radius.yetfix.com/client-payment/20250504132535505vo8LFY"
     },
@@ -1496,7 +1496,7 @@
         "address": "Chadra",
         "username": "ashraful475@bp",
         "pon": "2",
-        "mac": "70:A5:6A:0B:20:A8",
+        "mac": "80:F7:A6:C2:DF:0E",
         "url": "https://radius.yetfix.com/client-payment/20250504132535539FG3xRT"
     },
     {
@@ -1505,8 +1505,8 @@
         "id": "38440",
         "address": "Hazrakathi",
         "username": "ebrahim71@bp",
-        "pon": "4",
-        "mac": "",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -1515,8 +1515,8 @@
         "id": "38442",
         "address": "Begumpur",
         "username": "jakaria87@bp",
-        "pon": "3",
-        "mac": "",
+        "pon": "5",
+        "mac": "70:A5:6A:77:A7:AA",
         "url": "https://radius.yetfix.com/client-payment/20250504132535572jHBaIp"
     },
     {
@@ -1525,7 +1525,7 @@
         "id": "38443",
         "address": "Satbaria",
         "username": "kasem06@bp",
-        "pon": "2",
+        "pon": "6",
         "mac": "00:D3:9E:C0:EC:8E",
         "url": "https://radius.yetfix.com/client-payment/20250504132535606Lf5WtM"
     },
@@ -1545,8 +1545,8 @@
         "id": "38446",
         "address": "Satbaria",
         "username": "mamun70@bp",
-        "pon": "2",
-        "mac": "48:46:FB:53:1B:3C",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -1556,7 +1556,7 @@
         "address": "Chadra",
         "username": "maruf74@bp",
         "pon": "2",
-        "mac": "A2:3E:03:07:3E:10",
+        "mac": "6C:68:A4:9F:6B:EC",
         "url": "https://radius.yetfix.com/client-payment/20250504132535749Wg2Ly2"
     },
     {
@@ -1565,8 +1565,8 @@
         "id": "38450",
         "address": "Chadra",
         "username": "sakib10@bp",
-        "pon": "2",
-        "mac": "30:3D:51:E2:A8:EE",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250504132535789uVmmJd"
     },
     {
@@ -1576,7 +1576,7 @@
         "address": "Begumpur",
         "username": "salauddin35@bp",
         "pon": "3",
-        "mac": "",
+        "mac": "E0:E8:E6:2F:50:FF",
         "url": "https://radius.yetfix.com/client-payment/2025050413253582101EmBs"
     },
     {
@@ -1615,8 +1615,8 @@
         "phone": "01714826383",
         "address": "Satbaria",
         "username": "sobhan83@bp",
-        "pon": "2",
-        "mac": "",
+        "pon": "6",
+        "mac": "70:A5:6A:0B:F1:62",
         "url": "https://radius.yetfix.com/client-payment/20250217150204737FAb9fX"
     },
     {
@@ -1636,7 +1636,7 @@
         "address": "Begumpur",
         "username": "rassel11@bp",
         "pon": "4",
-        "mac": "00:00:00:00:00:00",
+        "mac": "70:A5:6A:0B:F1:72",
         "url": "https://radius.yetfix.com/client-payment/20250223120440734AdQjpy"
     },
     {
@@ -1646,7 +1646,7 @@
         "address": "Chadra",
         "username": "rezaul43@bp",
         "pon": "2",
-        "mac": "00:00:00:00:00:00",
+        "mac": "00:D3:9E:63:C7:74",
         "url": "https://radius.yetfix.com/client-payment/2025030311402037038cm6H"
     },
     {
@@ -1656,7 +1656,7 @@
         "address": "Begumpur",
         "username": "jahid34@bp",
         "pon": "3",
-        "mac": "00:00:00:00:00:00",
+        "mac": "4C:D7:C8:BB:DD:0C",
         "url": "https://radius.yetfix.com/client-payment/20250319175427479C8zOFq"
     },
     {
@@ -1666,7 +1666,7 @@
         "address": "Chadra",
         "username": "israfil19@bp",
         "pon": "2",
-        "mac": "00:00:00:00:00:00",
+        "mac": "4C:D7:C8:A8:45:F7",
         "url": "https://radius.yetfix.com/client-payment/20250322101611710Ci27Oa"
     },
     {
@@ -1676,7 +1676,7 @@
         "address": "Chadra",
         "username": "nazmul85@bp",
         "pon": "2",
-        "mac": "00:00:00:00:00:00",
+        "mac": "4C:D7:C8:BD:53:04",
         "url": "https://radius.yetfix.com/client-payment/20250323165009273GlDhpv"
     },
     {
@@ -1686,7 +1686,7 @@
         "address": "Hazrakathi",
         "username": "daud37@bp",
         "pon": "4",
-        "mac": "00:00:00:00:00:00",
+        "mac": "A0:7E:12:08:12:28",
         "url": "https://radius.yetfix.com/client-payment/2025032511025067264TSSy"
     },
     {
@@ -1695,7 +1695,7 @@
         "phone": "+8801838906242",
         "address": "Satbaria",
         "username": "younus42@bp_47605",
-        "pon": "2",
+        "pon": "1",
         "mac": "6C:68:A4:44:8D:48",
         "url": "https://radius.yetfix.com/client-payment/20250327133046853imiOYD"
     },
@@ -1705,8 +1705,8 @@
         "id": "47739",
         "address": "Chadra",
         "username": "soumik40@bp",
-        "pon": "2",
-        "mac": "00:00:00:00:00:00",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250329155359377kxrXPk"
     },
     {
@@ -1715,8 +1715,8 @@
         "id": "47794",
         "address": "Begumpur",
         "username": "jahid90@bp",
-        "pon": "3",
-        "mac": "00:00:00:00:00:00",
+        "pon": "5",
+        "mac": "A0:7E:12:08:11:78",
         "url": "https://radius.yetfix.com/client-payment/20250330163548441USYJ3c"
     },
     {
@@ -1726,7 +1726,7 @@
         "address": "Hazrakathi",
         "username": "sumon29@bp",
         "pon": "4",
-        "mac": "00:00:00:00:00:00",
+        "mac": "00:18:93:A2:8F:20",
         "url": "https://radius.yetfix.com/client-payment/20250403140926010poAQNX"
     },
     {
@@ -1736,7 +1736,7 @@
         "address": "Begumpur",
         "username": "jakir33@bp",
         "pon": "4",
-        "mac": "00:00:00:00:00:00",
+        "mac": "A0:7E:09:11:92:D0",
         "url": "https://radius.yetfix.com/client-payment/20250406151402452jLR5aG"
     },
     {
@@ -1745,8 +1745,8 @@
         "id": "48005",
         "address": "Begumpur",
         "username": "asadul60@bp",
-        "pon": "3",
-        "mac": "00:00:00:00:00:00",
+        "pon": "5",
+        "mac": "80:66:29:0B:72:53",
         "url": "https://radius.yetfix.com/client-payment/20250407192338804TE7zpi"
     },
     {
@@ -1755,8 +1755,8 @@
         "id": "52156",
         "address": "Begumpur",
         "username": "jahid42@bp",
-        "pon": "3",
-        "mac": "00:00:00:00:00",
+        "pon": "5",
+        "mac": "70:A8:E3:DC:20:EE",
         "url": "https://radius.yetfix.com/client-payment/202504201705483669uFgcA"
     },
     {
@@ -1765,8 +1765,8 @@
         "id": "54741",
         "address": "Begumpur",
         "username": "mostofa35@bp",
-        "pon": "3",
-        "mac": "00:00:00:00:00:00",
+        "pon": "5",
+        "mac": "CC:52:89:03:C9:CD",
         "url": "https://radius.yetfix.com/client-payment/20250427202828928JIqMzn"
     },
     {
@@ -1775,8 +1775,8 @@
         "phone": "+8801746073842",
         "address": "Chadra",
         "username": "ibrahim42@bp",
-        "pon": "4",
-        "mac": "00:00:00:00:00:00",
+        "pon": "2",
+        "mac": "4C:D7:C8:CE:73:41",
         "url": "https://radius.yetfix.com/client-payment/20250508144410773p1C8pL"
     },
     {
@@ -1786,7 +1786,7 @@
         "address": "Begumpur",
         "username": "nazmul27@bp",
         "pon": "3",
-        "mac": "00:00:00:00:00:00",
+        "mac": "A0:7E:12:08:11:98",
         "url": "https://radius.yetfix.com/client-payment/20250512150907744tIGY71"
     },
     {
@@ -1795,8 +1795,8 @@
         "phone": "+8801925408841",
         "address": "Satbaria",
         "username": "karim41@bp",
-        "pon": "1",
-        "mac": "A2:8C:02:19:BD:70",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250513145016897X9fo1S"
     },
     {
@@ -1805,8 +1805,8 @@
         "id": "66520",
         "address": "Satbaria",
         "username": "talab67@bp",
-        "pon": "1",
-        "mac": "00:00:00:00:00:00",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -1815,8 +1815,8 @@
         "id": "68704",
         "address": "Satbaria",
         "username": "roni29@bp",
-        "pon": "2",
-        "mac": "00:00:00:00:00:00",
+        "pon": "6",
+        "mac": "00:D5:9E:78:A5:B8",
         "url": "https://radius.yetfix.com/client-payment/20250522170324694cD46vm"
     },
     {
@@ -1836,7 +1836,7 @@
         "address": "Begumpur",
         "username": "younus03@bp",
         "pon": "4",
-        "mac": "00:00:00:00:00:00",
+        "mac": "4C:D7:C8:D1:3A:89",
         "url": "https://radius.yetfix.com/client-payment/20250525183356623hMn0Ts"
     },
     {
@@ -1845,8 +1845,8 @@
         "id": "70750",
         "address": "Begumpur",
         "username": "razimul33@bp",
-        "pon": "3",
-        "mac": "00:00:00:00:00:00",
+        "pon": "5",
+        "mac": "4C:D7:C8:D0:E4:59",
         "url": "https://radius.yetfix.com/client-payment/20250526150852557vh05GQ"
     },
     {
@@ -1855,8 +1855,8 @@
         "id": "71908",
         "address": "Begumpur",
         "username": "imran63@bp",
-        "pon": "4",
-        "mac": "00:00:00:00:00:00",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -1866,7 +1866,7 @@
         "address": "Begumpur",
         "username": "iddris19@bp",
         "pon": "4",
-        "mac": "00:00:00:00:00:00",
+        "mac": "4C:D7:C8:D0:C4:B1",
         "url": "https://radius.yetfix.com/client-payment/20250601152620578fx9Hac"
     },
     {
@@ -1876,7 +1876,7 @@
         "address": "Begumpur",
         "username": "shaimon76@bp",
         "pon": "4",
-        "mac": "00:00:00:00:00:00",
+        "mac": "A2:4E:12:06:09:40",
         "url": "https://radius.yetfix.com/client-payment/20250603185709534CNgg1n"
     },
     {
@@ -1885,8 +1885,8 @@
         "id": "73407",
         "address": "Satbaria",
         "username": "kuddus52@bp",
-        "pon": "2",
-        "mac": "00:00:00:00:00:00",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -1896,7 +1896,7 @@
         "address": "Begumpur",
         "username": "deloar47@bp",
         "pon": "4",
-        "mac": "00:00:00:00:00:00",
+        "mac": "4C:D7:C8:CE:D0:A1",
         "url": "https://radius.yetfix.com/client-payment/20250407095518972yAsPF6"
     },
     {
@@ -1906,7 +1906,7 @@
         "address": "Koriakhali",
         "username": "shinur33@bp",
         "pon": "5",
-        "mac": "00:00:00:00:00:00",
+        "mac": "4C:F9:A1:3F:CC:AE",
         "url": "https://radius.yetfix.com/client-payment/20250708114051319x9nj7f"
     },
     {
@@ -1915,8 +1915,8 @@
         "id": "109851",
         "address": "Satbaria",
         "username": "raman92@bp",
-        "pon": "2",
-        "mac": "N\/A",
+        "pon": "1",
+        "mac": "20:57:AF:A0:54:90",
         "url": "https://radius.yetfix.com/client-payment/20250717130209620S8rtKl"
     },
     {
@@ -1925,8 +1925,8 @@
         "id": "109861",
         "address": "Begumpur",
         "username": "hadiur21@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "5",
+        "mac": "4C:F9:A1:3F:A5:3C",
         "url": "https://radius.yetfix.com/client-payment/20250717134229553rPgDQd"
     },
     {
@@ -1935,8 +1935,8 @@
         "id": "110355",
         "address": "Koriakhali",
         "username": "kobir26@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "5",
+        "mac": "80:D4:A5:4D:D2:AF",
         "url": "https://radius.yetfix.com/client-payment/20250717190432662jiIL86"
     },
     {
@@ -1945,8 +1945,8 @@
         "id": "110615",
         "address": "Begumpur",
         "username": "chanta36@bp2",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "4",
+        "mac": "4C:D7:C8:E9:1F:64",
         "url": "https://radius.yetfix.com/client-payment/20250721211712647oRCC4x"
     },
     {
@@ -1956,7 +1956,7 @@
         "address": "Begumpur",
         "username": "imran75@bp",
         "pon": "4",
-        "mac": "N\/A",
+        "mac": "70:A5:6A:0B:F1:74",
         "url": "https://radius.yetfix.com/client-payment/20250722145707816apgYTc"
     },
     {
@@ -1965,8 +1965,8 @@
         "id": "113183",
         "address": "Begumpur",
         "username": "Jesmin33@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "4",
+        "mac": "00:D3:9E:9C:19:62",
         "url": "https://radius.yetfix.com/client-payment/20250723180522316WnqQVI"
     },
     {
@@ -1975,8 +1975,8 @@
         "id": "113184",
         "address": "Begumpur",
         "username": "tuhin43@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "6",
+        "mac": "A2:3E:02:26:A1:E0",
         "url": "https://radius.yetfix.com/client-payment/202507231808237339uqyGD"
     },
     {
@@ -1985,8 +1985,8 @@
         "id": "114186",
         "address": "Satbaria",
         "username": "shariful80@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "1",
+        "mac": "AC:12:8E:90:CF:FF",
         "url": "https://radius.yetfix.com/client-payment/202507241424348384KOwEj"
     },
     {
@@ -1995,8 +1995,8 @@
         "id": "118528",
         "address": "Satbaria",
         "username": "mahamudul97@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250729182939362mI1tVp"
     },
     {
@@ -2005,8 +2005,8 @@
         "id": "121322",
         "address": "Begumpur",
         "username": "josna06@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "4",
+        "mac": "A0:7D:01:04:88:FC",
         "url": "https://radius.yetfix.com/client-payment/20250803160343048luxpxW"
     },
     {
@@ -2015,8 +2015,8 @@
         "id": "121343",
         "address": "Begumpur",
         "username": "sujoy75@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "4",
+        "mac": "4C:F9:A1:E4:71:79",
         "url": "https://radius.yetfix.com/client-payment/2025080319114261206D7Fs"
     },
     {
@@ -2025,8 +2025,8 @@
         "id": "121855",
         "address": "Satbaria",
         "username": "billal81@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "3",
+        "mac": "A2:4F:04:27:13:30",
         "url": "https://radius.yetfix.com/client-payment/20250804111911371ciyuAS"
     },
     {
@@ -2035,8 +2035,8 @@
         "id": "122190",
         "address": "Satbaria",
         "username": "harun02@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "5",
+        "mac": "20:57:AF:9E:DE:E8",
         "url": "https://radius.yetfix.com/client-payment/20250805131702913EgULx6"
     },
     {
@@ -2045,8 +2045,8 @@
         "id": "122310",
         "address": "Chadra",
         "username": "robiule22@bp2",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250212110946705SREiHx"
     },
     {
@@ -2055,8 +2055,8 @@
         "id": "122413",
         "address": "Koriakhali",
         "username": "tohidur64@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "5",
+        "mac": "A2:4F:04:27:B2:D0",
         "url": "https://radius.yetfix.com/client-payment/20250807143317817v2OZMT"
     },
     {
@@ -2065,8 +2065,8 @@
         "id": "123063",
         "address": "Satbaria",
         "username": "quddus22@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "3",
+        "mac": "4C:D7:C8:E8:38:3C",
         "url": "https://radius.yetfix.com/client-payment/20250810185521772B0UjiV"
     },
     {
@@ -2075,8 +2075,8 @@
         "id": "124576",
         "address": "Begumpur",
         "username": "geas05@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "3",
+        "mac": "A2:4F:04:27:12:30",
         "url": "https://radius.yetfix.com/client-payment/20250811162858299XOJKGx"
     },
     {
@@ -2085,8 +2085,8 @@
         "id": "124918",
         "address": "Chadra",
         "username": "faruk99@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250813154351066uJlfVM"
     },
     {
@@ -2095,8 +2095,8 @@
         "id": "124919",
         "address": "Chadra",
         "username": "firoj71@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "2",
+        "mac": "50:5B:1D:3B:3F:05",
         "url": "https://radius.yetfix.com/client-payment/20250813154646003KSOCvS"
     },
     {
@@ -2105,8 +2105,8 @@
         "id": "129388",
         "address": "Satbaria",
         "username": "taher45@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "1",
+        "mac": "4C:D7:C8:E8:E6:7C",
         "url": "https://radius.yetfix.com/client-payment/20250820182830020q39Eng"
     },
     {
@@ -2115,8 +2115,8 @@
         "id": "129775",
         "address": "Begumpur",
         "username": "jakir10@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "3",
+        "mac": "4C:F9:A1:4D:9E:8D",
         "url": "https://radius.yetfix.com/client-payment/20250824122254967iw5jBd"
     },
     {
@@ -2125,8 +2125,8 @@
         "id": "129887",
         "address": "Chadra",
         "username": "mehedi49@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250825114855327VZBoje"
     },
     {
@@ -2135,8 +2135,8 @@
         "id": "129913",
         "address": "Begumpur",
         "username": "zakir83@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "5",
+        "mac": "50:5B:1D:B3:61:16",
         "url": "https://radius.yetfix.com/client-payment/20250825160310917fGHSLx"
     },
     {
@@ -2146,7 +2146,7 @@
         "address": "Begumpur",
         "username": "jakir33@bp2",
         "pon": "4",
-        "mac": "",
+        "mac": "A2:4F:04:27:B2:10",
         "url": "https://radius.yetfix.com/client-payment/20250831103818628KAx3Og"
     },
     {
@@ -2156,7 +2156,7 @@
         "address": "Begumpur",
         "username": "razzak61@bp",
         "pon": "4",
-        "mac": "",
+        "mac": "CA:11:00:9F:A3:7E",
         "url": "https://radius.yetfix.com/client-payment/20250901165539412cm2kTX"
     },
     {
@@ -2165,8 +2165,8 @@
         "phone": "01937225449",
         "address": "Chadra",
         "username": "rofiqul49@bp",
-        "pon": "2",
-        "mac": "",
+        "pon": "6",
+        "mac": "CA:11:E5:16:26:9C",
         "url": "https://radius.yetfix.com/client-payment/20250910142129686rvMKt7"
     },
     {
@@ -2175,8 +2175,8 @@
         "phone": "01748797194",
         "address": "Satbaria",
         "username": "robiul94@bp",
-        "pon": "3",
-        "mac": "",
+        "pon": "6",
+        "mac": "CA:11:5F:49:54:47",
         "url": "https://radius.yetfix.com/client-payment/20250913192340376abgt7A"
     },
     {
@@ -2186,7 +2186,7 @@
         "address": "Chadra",
         "username": "reya26@bp",
         "pon": "2",
-        "mac": "A0:7E:12:09:99:90",
+        "mac": "A0:7E:12:09:99:98",
         "url": "https://radius.yetfix.com/client-payment/20250922133204677K5cNfv"
     },
     {
@@ -2196,7 +2196,7 @@
         "address": "Chadra",
         "username": "sohel22@bp",
         "pon": "2",
-        "mac": "",
+        "mac": "4C:D7:C8:E8:88:60",
         "url": "https://radius.yetfix.com/client-payment/20250923142918990ystZcc"
     },
     {
@@ -2205,38 +2205,38 @@
         "phone": "01406846677",
         "address": "Begumpur",
         "username": "toriqul77@bp",
-        "pon": "3",
-        "mac": "",
+        "pon": "5",
+        "mac": "CA:11:D7:BB:AE:20",
         "url": "https://radius.yetfix.com/client-payment/20250926110326807mS2gte"
     },
     {
         "id": "38021",
         "name": "RAFIQUL ISLAM (TEA)",
         "phone": "01846356374",
-        "address": "N\/A",
+        "address": "N/A",
         "username": "rafiqul18@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "3",
+        "mac": "80:F7:A6:7A:B1:3B",
         "url": "https://radius.yetfix.com/client-payment/20250504132536818b6b2ke"
     },
     {
         "id": "38237",
         "name": "MD. SURAP HOSSAIN TOIEM",
         "phone": "01985075216",
-        "address": "N\/A",
+        "address": "N/A",
         "username": "toiem16@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "3",
+        "mac": "50:5B:1D:3B:0B:21",
         "url": "https://radius.yetfix.com/client-payment/20250209133808951xX09i0"
     },
     {
         "id": "38432",
         "name": "PARVES MOSARAF",
         "phone": "01746752481",
-        "address": "N\/A",
+        "address": "N/A",
         "username": "parves81@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "2",
+        "mac": "6C:68:A4:46:03:D0",
         "url": "https://radius.yetfix.com/client-payment/20251018115130512LNqdfe"
     },
     {
@@ -2245,8 +2245,8 @@
         "phone": "01605820452",
         "address": "Satbaria",
         "username": "kuddus42@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": ""
     },
     {
@@ -2255,8 +2255,8 @@
         "phone": "01301798819",
         "address": "Begumpur",
         "username": "iqbul19@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "5",
+        "mac": "00:D5:9E:8A:85:EC",
         "url": "https://radius.yetfix.com/client-payment/20250619165842591KQ3Doe"
     },
     {
@@ -2265,7 +2265,7 @@
         "phone": "01967365592",
         "address": "Begumpur",
         "username": "asor53@bp",
-        "pon": "N\/A",
+        "pon": "3",
         "mac": "00:D5:9E:8A:88:5C",
         "url": "https://radius.yetfix.com/client-payment/20250623143202910f5hGOV"
     },
@@ -2275,8 +2275,8 @@
         "phone": "01755094867",
         "address": "Begumpur",
         "username": "kalam67@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "3",
+        "mac": "4C:F9:A1:CE:79:06",
         "url": "https://radius.yetfix.com/client-payment/20250628195447246ypPuxJ"
     },
     {
@@ -2285,8 +2285,8 @@
         "phone": "01859077517",
         "address": "Satbaria",
         "username": "riyad17@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "6",
+        "mac": "4C:F9:A1:DD:7F:59",
         "url": "https://radius.yetfix.com/client-payment/20250702170326220PrLYvk"
     },
     {
@@ -2295,8 +2295,8 @@
         "phone": "01337035070",
         "address": "Satbaria",
         "username": "rosul70@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "2",
+        "mac": "4C:D7:C8:E3:FA:24",
         "url": "https://radius.yetfix.com/client-payment/20250702170505446p9ctnr"
     },
     {
@@ -2305,8 +2305,8 @@
         "phone": "01700000097",
         "address": "Begumpur",
         "username": "sazu93@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "5",
+        "mac": "E0:E8:E6:DE:72:49",
         "url": "https://radius.yetfix.com/client-payment/20250705165525629EhwoLz"
     },
     {
@@ -2315,8 +2315,8 @@
         "phone": "01920171243",
         "address": "Chadra",
         "username": "saidurjaman43@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "2",
+        "mac": "50:5B:1D:7C:50:EE",
         "url": "https://radius.yetfix.com/client-payment/20250707125914082oj0kiS"
     },
     {
@@ -2325,8 +2325,8 @@
         "phone": "01401800694",
         "address": "Satbaria",
         "username": "tohid94@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "6",
+        "mac": "4C:F9:A1:D7:2C:6E",
         "url": "https://radius.yetfix.com/client-payment/20250712164427625q9A7aG"
     },
     {
@@ -2335,8 +2335,8 @@
         "phone": "01986239938",
         "address": "Hakimpur",
         "username": "riyad38@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "4",
+        "mac": "00:D3:9E:1E:60:78",
         "url": "https://radius.yetfix.com/client-payment/20250827103351201QSH37p"
     },
     {
@@ -2345,8 +2345,8 @@
         "phone": "01756626780",
         "address": "Chadra",
         "username": "alamgir80@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "2",
+        "mac": "B4:64:15:B5:21:66",
         "url": "https://radius.yetfix.com/client-payment/20250830162144772eQugX5"
     },
     {
@@ -2355,8 +2355,8 @@
         "phone": "01700000097",
         "address": "Chadra",
         "username": "rakib97@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "2",
+        "mac": "CA:11:18:0C:06:FD",
         "url": "https://radius.yetfix.com/client-payment/2025092514082110143IbnE"
     },
     {
@@ -2365,8 +2365,8 @@
         "phone": "01875684068",
         "address": "Satbaria",
         "username": "tanvir68@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20250930115829958OwqWcs"
     },
     {
@@ -2375,8 +2375,8 @@
         "phone": "01884851055",
         "address": "Satbaria",
         "username": "sayfullah55@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20251005184246314K6zriO"
     },
     {
@@ -2385,8 +2385,8 @@
         "phone": "01718317422",
         "address": "Koriakhali",
         "username": "mehedi22@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "5",
+        "mac": "4C:D7:C8:E7:CD:48",
         "url": "https://radius.yetfix.com/client-payment/20251006142135165Vo7H7y"
     },
     {
@@ -2395,8 +2395,8 @@
         "phone": "01714848817",
         "address": "Satbaria",
         "username": "hasan17@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20251008160947683XJ1QbO"
     },
     {
@@ -2405,8 +2405,8 @@
         "phone": "01718767208",
         "address": "Chadra",
         "username": "sadat08@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "2",
+        "mac": "A0:7E:12:05:EE:08",
         "url": "https://radius.yetfix.com/client-payment/20251010123346923SfRmbw"
     },
     {
@@ -2415,8 +2415,8 @@
         "phone": "01705423680",
         "address": "Chadra",
         "username": "hasan80@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "6",
+        "mac": "00:D3:9E:1E:AD:7C",
         "url": "https://radius.yetfix.com/client-payment/20251012140947743gd64pm"
     },
     {
@@ -2425,8 +2425,8 @@
         "phone": "01723422753",
         "address": "Koriakhali",
         "username": "rezaul53@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
+        "pon": "3",
+        "mac": "AC:12:8E:90:CF:B9",
         "url": "https://radius.yetfix.com/client-payment/20251014191435685pJIRYQ"
     },
     {
@@ -2436,7 +2436,7 @@
         "address": "Begumpur",
         "username": "rubel50@bp",
         "pon": "3",
-        "mac": "N\/A",
+        "mac": "4C:D7:C8:E8:09:00",
         "url": "https://radius.yetfix.com/client-payment/20251015182420506dogj2y"
     },
     {
@@ -2446,7 +2446,7 @@
         "address": "Chadra",
         "username": "suban60@bp",
         "pon": "2",
-        "mac": "N\/A",
+        "mac": "C8:3A:35:7A:93:D0",
         "url": "https://radius.yetfix.com/client-payment/20251017184709331hMUrkk"
     },
     {
@@ -2455,8 +2455,8 @@
         "phone": "01983643437",
         "address": "Chadra",
         "username": "bilkis37@bp",
-        "pon": "3",
-        "mac": "N\/A",
+        "pon": "2",
+        "mac": "4C:D7:C8:E7:C6:7C",
         "url": "https://radius.yetfix.com/client-payment/20251020191151375Ey4Y0q"
     },
     {
@@ -2465,8 +2465,8 @@
         "phone": "01909535823",
         "address": "Begumpur",
         "username": "nazmul23@bp",
-        "pon": "3",
-        "mac": "N\/A",
+        "pon": "4",
+        "mac": "B4:64:15:BB:33:57",
         "url": "https://radius.yetfix.com/client-payment/20251025144638308fyMo6l"
     },
     {
@@ -2476,7 +2476,7 @@
         "address": "Chadra",
         "username": "jahid18@bp",
         "pon": "2",
-        "mac": "N\/A",
+        "mac": "50:5B:1D:3B:3F:5F",
         "url": "https://radius.yetfix.com/client-payment/202510281640127759uLaOl"
     },
     {
@@ -2485,8 +2485,8 @@
         "phone": "01972371143",
         "address": "Hazrakathi",
         "username": "khadiza43@bp",
-        "pon": "3",
-        "mac": "N\/A",
+        "pon": "4",
+        "mac": "4C:AE:1C:69:C0:50",
         "url": "https://radius.yetfix.com/client-payment/20251103152352159qg0NMO"
     },
     {
@@ -2496,7 +2496,7 @@
         "address": "Begumpur",
         "username": "sonjoy95@bp",
         "pon": "3",
-        "mac": "N\/A",
+        "mac": "A2:4E:03:09:B8:E0",
         "url": "https://radius.yetfix.com/client-payment/202511041102560076fymwY"
     },
     {
@@ -2505,8 +2505,8 @@
         "phone": "1980421840",
         "address": "Chadra",
         "username": "faruk40@bp",
-        "pon": "3",
-        "mac": "N\/A",
+        "pon": "2",
+        "mac": "80:D4:A5:27:CA:BF",
         "url": "https://radius.yetfix.com/client-payment/20251118123830347tDqoQ0"
     },
     {
@@ -2516,7 +2516,7 @@
         "address": "Begumpur",
         "username": "kobir20@bp",
         "pon": "6",
-        "mac": "N\/A",
+        "mac": "4C:F9:A4:F3:16:27",
         "url": "https://radius.yetfix.com/client-payment/20251118145059815hZXIJt"
     },
     {
@@ -2526,7 +2526,7 @@
         "address": "Chadra",
         "username": "siddiqur67@bp",
         "pon": "2",
-        "mac": "N\/A",
+        "mac": "A0:7D:07:11:18:C4",
         "url": "https://radius.yetfix.com/client-payment/20251122165752317SdYWOm"
     },
     {
@@ -2536,7 +2536,7 @@
         "address": "Satbaria",
         "username": "nayem70@bp",
         "pon": "1",
-        "mac": "N\/A",
+        "mac": "78:20:51:5E:28:08",
         "url": "https://radius.yetfix.com/client-payment/20251206181334283xYcjTZ"
     },
     {
@@ -2546,7 +2546,7 @@
         "address": "Begumpur",
         "username": "asadul67@bp",
         "pon": "3",
-        "mac": "N\/A",
+        "mac": "4C:D7:C8:E8:CC:B4",
         "url": "https://radius.yetfix.com/client-payment/20251212175717682gwxuCY"
     },
     {
@@ -2556,7 +2556,7 @@
         "address": "Chadra",
         "username": "julfidar02@bp",
         "pon": "2",
-        "mac": "N\/A",
+        "mac": "20:57:AF:A1:80:F8",
         "url": "https://radius.yetfix.com/client-payment/20251213143704233LPnvWm"
     },
     {
@@ -2565,8 +2565,8 @@
         "id": "214929",
         "address": "Begumpur",
         "username": "abdullah49@bp",
-        "pon": "n\/a",
-        "mac": "n\/a",
+        "pon": "3",
+        "mac": "A2:4E:12:06:1A:60",
         "url": "https://radius.yetfix.com/client-payment/202512191054081941FdTbO"
     },
     {
@@ -2575,8 +2575,8 @@
         "id": "230881",
         "address": "Begumpur",
         "username": "aktarul16@bp",
-        "pon": "n\/a",
-        "mac": "n\/a",
+        "pon": "5",
+        "mac": "00:D3:9E:73:EC:DC",
         "url": "https://radius.yetfix.com/client-payment/20251230144251959G1gpzz"
     },
     {
@@ -2585,8 +2585,8 @@
         "id": "231322",
         "address": "Chadra",
         "username": "sahin27@bp",
-        "pon": "n\/a",
-        "mac": "n\/a",
+        "pon": "2",
+        "mac": "C8:3A:35:79:7B:90",
         "url": "https://radius.yetfix.com/client-payment/20251231142705927cvp1oJ"
     },
     {
@@ -2605,8 +2605,8 @@
         "phone": "+8801821430648",
         "address": "Satbaria",
         "username": "ubidul48@bp",
-        "pon": "1",
-        "mac": "n\/a",
+        "pon": "N/A",
+        "mac": "N/A",
         "url": "https://radius.yetfix.com/client-payment/20260104134347085V7ZISB"
     },
     {
@@ -2615,7 +2615,7 @@
         "phone": "01758127478",
         "address": "Chadra",
         "username": "monirul78@bp",
-        "pon": "3",
+        "pon": "2",
         "mac": "B4:64:15:BA:7C:AB",
         "url": "https://radius.yetfix.com/client-payment/20260108154116954VdF55w"
     },
@@ -2635,8 +2635,8 @@
         "phone": "01918528839",
         "address": "Satbaria ",
         "username": "sahid39@bp",
-        "pon": "3",
-        "mac": "B4:64:15:BA:49:17",
+        "pon": "1",
+        "mac": "00:D3:9E:63:C7:4A",
         "url": "https://radius.yetfix.com/client-payment/20260114131151270pYajnz"
     },
     {
@@ -2645,8 +2645,8 @@
         "phone": "01985714007",
         "address": "Koriakhali",
         "username": "shariful07@bp",
-        "pon": "3",
-        "mac": "",
+        "pon": "5",
+        "mac": "4C:46:D1:1D:4A:1C",
         "url": "https://radius.yetfix.com/client-payment/20260123153800272kWkVnq"
     },
     {
@@ -2665,10 +2665,10 @@
         "phone": "01866871760",
         "address": "Satbaria",
         "username": "nazmul60@bp_37931",
-        "pon": "2",
-        "mac": "4C:AE:1C:19:05:C7",
+        "pon": "1",
+        "mac": "4C:D7:C8:E3:F5:70",
         "url": "https://radius.yetfix.com/client-payment/20250504132535980MPHU6A"
-     },
+    },
     {
         "id": "243838",
         "name": "MD. ATIAR RAHMAN",
@@ -2676,7 +2676,7 @@
         "address": "Chadra",
         "username": "atiar70@bp",
         "pon": "2",
-        "mac": "",
+        "mac": "B4:64:15:BA:3F:23",
         "url": "https://radius.yetfix.com/client-payment/20260127142641683FHgrMh"
     },
     {
@@ -2685,8 +2685,8 @@
         "phone": "01966966849",
         "address": "Satbaria ",
         "username": "palash49@bp",
-        "pon": "2",
-        "mac": "",
+        "pon": "1",
+        "mac": "B4:64:15:AF:71:10",
         "url": "https://radius.yetfix.com/client-payment/2026012913040677541bMVr"
     },
     {

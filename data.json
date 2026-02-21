@@ -240,16 +240,6 @@
         "url": "https://radius.yetfix.com/client-payment/20250504132535922qFQts9"
     },
     {
-        "name": "NAZMUL HUDA",
-        "phone": "01866871760",
-        "id": "37931",
-        "address": "Satbaria",
-        "username": "nazmul60@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
-    },
-    {
         "name": "MD. SHOHAG HOSSAIN",
         "phone": "01957800967",
         "id": "37932",
@@ -980,16 +970,6 @@
         "url": "https://radius.yetfix.com/client-payment/20250504132536365IEgwVl"
     },
     {
-        "name": "AL AMIN",
-        "phone": "01995563218",
-        "id": "38010",
-        "address": "Chadra",
-        "username": "amin18@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
-    },
-    {
         "name": "MD. SHOHEDUL ISLAM",
         "phone": "01992963090",
         "id": "38011",
@@ -1068,26 +1048,6 @@
         "pon": "6",
         "mac": "80:F7:A6:C2:D7:90",
         "url": "https://radius.yetfix.com/client-payment/20250504132536728TTeS8s"
-    },
-    {
-        "name": "MD. AZHARUL ISLAM",
-        "phone": "01304550552",
-        "id": "38020",
-        "address": "Begumpur",
-        "username": "azarul52@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
-    },
-    {
-        "name": "FOZILA",
-        "phone": "01722974898",
-        "id": "38022",
-        "address": "Begumpur",
-        "username": "fozila98@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
     },
     {
         "name": "MD. RAKIB HOSSAIN",
@@ -1420,26 +1380,6 @@
         "url": "https://radius.yetfix.com/client-payment/20250504132535284tOBnTj"
     },
     {
-        "name": "PARVES MOSARAF",
-        "phone": "01721527149",
-        "id": "39456",
-        "address": "Chadra",
-        "username": "parves49@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
-    },
-    {
-        "name": "MD RAIHAN HOSSAIN",
-        "phone": "01778609151",
-        "id": "38433",
-        "address": "Begumpur",
-        "username": "raihan51@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
-    },
-    {
         "name": "MD. TOHIDUR RAHMAN",
         "phone": "01310944202",
         "id": "38434",
@@ -1500,16 +1440,6 @@
         "url": "https://radius.yetfix.com/client-payment/20250504132535539FG3xRT"
     },
     {
-        "name": "IBRAHIM HOSSAIN",
-        "phone": "01705711971",
-        "id": "38440",
-        "address": "Hazrakathi",
-        "username": "ebrahim71@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
-    },
-    {
         "name": "MD JAKARIA HOSSEIN",
         "phone": "01733428287",
         "id": "38442",
@@ -1538,16 +1468,6 @@
         "pon": "2",
         "mac": "70:A5:6A:E2:FA:16",
         "url": "https://radius.yetfix.com/client-payment/202505041325356785ntLE1"
-    },
-    {
-        "name": "MD MAMUN RAHMAN",
-        "phone": "01936893226",
-        "id": "38446",
-        "address": "Satbaria",
-        "username": "mamun70@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
     },
     {
         "name": "MARUF HOSSAIN (H)",
@@ -1800,16 +1720,6 @@
         "url": "https://radius.yetfix.com/client-payment/20250513145016897X9fo1S"
     },
     {
-        "name": "ABU TALAB MOROL",
-        "phone": "+8801834445267",
-        "id": "66520",
-        "address": "Satbaria",
-        "username": "talab67@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
-    },
-    {
         "name": "RONI SORDER",
         "phone": "+8801331703629",
         "id": "68704",
@@ -1850,16 +1760,6 @@
         "url": "https://radius.yetfix.com/client-payment/20250526150852557vh05GQ"
     },
     {
-        "name": "IMRAN HOSSEN",
-        "phone": "+8801938203263",
-        "id": "71908",
-        "address": "Begumpur",
-        "username": "imran63@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
-    },
-    {
         "name": "IDDRIS GAZI (LITON)",
         "phone": "+8801303874019",
         "id": "72476",
@@ -1878,16 +1778,6 @@
         "pon": "4",
         "mac": "A2:4E:12:06:09:40",
         "url": "https://radius.yetfix.com/client-payment/20250603185709534CNgg1n"
-    },
-    {
-        "name": "ABDUL KUDDUS",
-        "phone": "+8801605820452",
-        "id": "73407",
-        "address": "Satbaria",
-        "username": "kuddus52@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
     },
     {
         "name": "DELOAR HOSSAIN",
@@ -2238,16 +2128,6 @@
         "pon": "2",
         "mac": "6C:68:A4:46:03:D0",
         "url": "https://radius.yetfix.com/client-payment/20251018115130512LNqdfe"
-    },
-    {
-        "id": "73407",
-        "name": "ABDUL KUDDUS",
-        "phone": "01605820452",
-        "address": "Satbaria",
-        "username": "kuddus42@bp",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": ""
     },
     {
         "id": "79187",

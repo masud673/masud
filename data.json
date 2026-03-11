@@ -1950,21 +1950,6 @@
         "url": "https://radius.yetfix.com/client-payment/20250504132534985WS1IbV"
     },
     {
-        "id": "38424",
-        "name": "ABDUL KHALEK",
-        "username": "khalek79@bp",
-        "phone": "01314477879",
-        "address": "Koriakhali",
-        "status": "active",
-        "expire_date": "",
-        "package_name": "",
-        "package_price": "",
-        "balance": "0",
-        "pon": "N/A",
-        "mac": "N/A",
-        "url": "https://radius.yetfix.com/client-payment/20250504132535023l9of5z"
-    },
-    {
         "id": "38425",
         "name": "MD. MONIRUZZANAN",
         "username": "moni53@bp",

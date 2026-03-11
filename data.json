@@ -2568,45 +2568,5 @@
         "pon": "3",
         "mac": "A2:8E:12:04:71:E0",
         "url": "https:\/\/radius.yetfix.com\/client-payment\/20260214122434673j5ywqq"
-    },
-    {
-        "id": "262158",
-        "name": "MD FEROZ HOSSEN",
-        "phone": "01623355743",
-        "address": "Koriakhali",
-        "username": "feraz43@bp",
-        "pon": "N\/A",
-        "mac": "N\/A",
-        "url": ""
-    },
-    {
-        "id": "1",
-        "name": "1",
-        "phone": "1",
-        "address": "1",
-        "username": "1",
-        "pon": "1",
-        "mac": "1",
-        "url": "Url"
-    },
-    {
-        "id": "5",
-        "name": "5",
-        "phone": "5",
-        "address": "5",
-        "username": "5",
-        "pon": "5",
-        "mac": "5",
-        "url": "Url"
-    },
-    {
-        "id": "6",
-        "name": "6",
-        "phone": "6",
-        "address": "6",
-        "username": "6",
-        "pon": "6",
-        "mac": "5",
-        "url": "6"
     }
 ]

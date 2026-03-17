@@ -847,9 +847,11 @@
     "phone": "01718015197",
     "address": "Begumpur",
     "username": "shahin97@bp",
-    "pon": "4",
-    "mac": "70:A5:6A:0A:CB:B8",
-    "url": "https://radius.yetfix.com/client-payment/20250504132535828VGgPAo"
+    "pon": "",
+    "mac": "",
+    "url": "https://radius.yetfix.com/client-payment/20250504132535828VGgPAo",
+    "image": "",
+    "speed": ""
   },
   {
     "id": "37997",
